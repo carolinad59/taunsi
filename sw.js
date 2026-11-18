@@ -5,7 +5,7 @@
 const VERSION = 'taunsi-v1';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'css/styles.css', 'icons/icon.svg', 'icons/icon-192.png',
   'js/main.js', 'js/storage.js', 'js/course.js', 'js/path.js', 'js/lesson.js', 'js/srs.js', 'js/hearts.js', 'js/audio.js',
-  'js/speech.js', 'js/normalize.js', 'js/ui.js', 'js/util.js',
+  'js/speech.js', 'audio/manifest.json', 'js/normalize.js', 'js/ui.js', 'js/util.js',
   ...['common', 'index', 'translate_pick', 'tn_to_es_choice', 'listen_choose', 'listen_type', 'speak', 'match_pairs', 'fill_blank', 'order_words', 'dialogue_reply'].map((n) => `js/exercises/${n}.js`),
   'data/course.json'];
 

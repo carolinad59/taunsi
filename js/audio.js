@@ -21,16 +21,23 @@ export function stop() {
 }
 
 let warned = false;
+// iOS Safari: las voces cargan tarde y la síntesis debe lanzarse dentro del gesto del usuario.
+try { synth()?.getVoices?.(); synth()?.addEventListener?.('voiceschanged', () => {}); } catch { /* nada */ }
+
 function speak(text, rate) {
+  if (!synth() || typeof SpeechSynthesisUtterance === 'undefined') {
+    toast('Este navegador no tiene síntesis de voz. Añade mp3 en audio/ (mira el README).', 5000);
+    return Promise.resolve(false);
+  }
   return new Promise((resolve) => {
-    if (!synth() || typeof SpeechSynthesisUtterance === 'undefined') return resolve(false);
     const voice = pickVoice();
-    if (!voice && !warned) {
-      warned = true;
-      toast('Tu navegador no tiene voz árabe. Instala una voz del sistema o añade mp3 en audio/ (mira el README).', 6000);
-    }
     const u = new SpeechSynthesisUtterance(text);
-    if (voice) { u.voice = voice; u.lang = voice.lang; } else u.lang = 'ar-TN';
+    // Sin voz ar-TN/ar localizada, pedimos el idioma igualmente (iOS suele tener ar-SA).
+    if (voice) { u.voice = voice; u.lang = voice.lang; } else u.lang = 'ar-SA';
+    if (!voice && voices().length && !warned) {
+      warned = true;
+      toast('No veo voz árabe instalada. En iPhone: Ajustes → Accesibilidad → Contenido hablado → Voces → Árabe.', 7000);
+    }
     u.rate = rate;
     u.onend = () => resolve(true);
     u.onerror = () => resolve(false);
@@ -39,12 +46,16 @@ function speak(text, rate) {
   });
 }
 
+// Solo se intenta un mp3 si figura en audio/manifest.json (así la voz se lanza sin esperas).
+let manifest = new Set();
+fetch('audio/manifest.json').then((r) => (r.ok ? r.json() : [])).then((a) => { manifest = new Set(a); }).catch(() => {});
+
 /** Reproduce un ítem (o línea de diálogo). opts.slow = velocidad 0,6. Devuelve true si sonó algo. */
 export async function play(item, { slow = false } = {}) {
   lastItem = item; lastOpts = { slow };
   stop();
   const rate = slow ? 0.6 : 1;
-  if (item.id && !missing.has(item.id)) {
+  if (item.id && manifest.has(item.id) && !missing.has(item.id)) {
     const ok = await new Promise((resolve) => {
       const a = new Audio(`audio/${item.id}.mp3`);
       a.playbackRate = rate;

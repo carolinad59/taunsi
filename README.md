@@ -43,8 +43,9 @@ Reglas: 8–14 ítems por lección, 3–5 lecciones por unidad, `tokens` unidos 
 
 ## Audio
 Prioridad: `audio/<id>.mp3` → si no existe, `speechSynthesis` con voz `ar-TN` (o `ar`) leyendo el campo `ar` → si no, "audio no disponible". Botones: normal, lento (0,6) y repetir; y "Escuchar la lección" en cada lección.
+- Tras añadir mp3 ejecuta `node scripts/build-audio-manifest.mjs` (solo se intentan los mp3 listados en `audio/manifest.json`).
 - Lista de lo que falta: `node scripts/list-missing-audio.mjs`.
-- Si tu navegador no tiene voces árabes: instala una voz del sistema (macOS: Ajustes → Accesibilidad → Contenido hablado → Voces del sistema; Android: Ajustes de texto a voz de Google) o graba los mp3 y déjalos en `audio/` con el id del ítem como nombre.
+- Si tu navegador no tiene voces árabes: instala una voz del sistema (iPhone: Ajustes → Accesibilidad → Contenido hablado → Voces → Árabe; macOS: Ajustes → Accesibilidad → Contenido hablado → Voces del sistema; Android: Ajustes de texto a voz de Google) o graba los mp3 y déjalos en `audio/` con el id del ítem como nombre.
 - El reconocimiento de voz (`speak`) no está garantizado para tunecino; **nunca bloquea**: siempre hay "Lo dije bien" y "Seguir". Opcionalmente puedes grabar tu voz y reproducirla.
 
 ## Convención de escritura
