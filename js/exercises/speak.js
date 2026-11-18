@@ -25,14 +25,25 @@ export function render(host, ex, api) {
   if (recognitionSupported()) {
     btns.push(h('button', { class: 'btn audio', type: 'button', onclick: async () => {
       status.textContent = 'Escuchando…';
-      try {
-        const alts = await listenOnce('ar-TN');
-        if (!alts.length) { status.textContent = 'No he oído nada. Prueba otra vez o usa «Lo dije bien».'; return; }
-        const best = Math.max(...alts.map((a) => scoreSpeech(a, item)));
-        status.textContent = `He entendido: «${alts[0]}»`;
-        if (best >= SPEECH_PASS) api.finish(true, ex.tn);
-        else status.textContent += ' — no coincide del todo. Repite o usa «Lo dije bien».';
-      } catch (e) { status.textContent = 'El reconocimiento de voz no está disponible aquí. Usa la autoevaluación.'; }
+      let alts = null, lastErr = '';
+      for (const lang of ['ar-TN', 'ar-SA', 'ar']) { // iOS no siempre admite ar-TN
+        try { alts = await listenOnce(lang); break; } catch (e) {
+          lastErr = e.message;
+          if (!/language-not-supported|no-soportado/.test(lastErr)) break;
+        }
+      }
+      if (alts === null) {
+        const why = /not-allowed|service-not-allowed/.test(lastErr)
+          ? 'Safari no tiene permiso: activa el micrófono para esta web y el Dictado (Ajustes → General → Teclado → Activar dictado).'
+          : /language/.test(lastErr) ? 'Tu navegador no reconoce árabe.' : 'El reconocimiento de voz no funciona aquí.';
+        status.textContent = `${why} Usa «Lo dije bien» para continuar.`;
+        return;
+      }
+      if (!alts.length) { status.textContent = 'No he oído nada. Prueba otra vez o usa «Lo dije bien».'; return; }
+      const best = Math.max(...alts.map((a) => scoreSpeech(a, item)));
+      status.textContent = `He entendido: «${alts[0]}»`;
+      if (best >= SPEECH_PASS) api.finish(true, ex.tn);
+      else status.textContent += ' — no coincide del todo. Repite o usa «Lo dije bien».';
     } }, '🎤 Hablar'));
   }
   if (recordingSupported()) {
