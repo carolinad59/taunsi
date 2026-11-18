@@ -1,0 +1,523 @@
+{
+  "lessons": [
+    {
+      "id": "u00-l01",
+      "title": "Vocales y consonantes básicas",
+      "kind": "normal",
+      "grammar": {
+        "title": "Vocales cortas y largas",
+        "text_es": "Escribimos el tunecino con letras latinas (Arabizi). Las vocales a, e, i, o, u son breves; si se doblan (aa, ii) o se escribe «ou», suenan más largas. «ou» siempre suena como la «u» española. Las consonantes b, d, f, l, m, n, r, t y z suenan casi igual que en español."
+      },
+      "items": [
+        {
+          "id": "u00-l01-baba",
+          "type": "word",
+          "es": "papá",
+          "tn": "baba",
+          "ar": "بابا",
+          "pron": "ba-ba, como en español",
+          "note": "Se usa en toda Túnez.",
+          "review": false
+        },
+        {
+          "id": "u00-l01-yemma",
+          "type": "word",
+          "es": "mamá",
+          "tn": "yemma",
+          "ar": "يمّا",
+          "pron": "ie-ma, con la «m» algo alargada",
+          "alt": [
+            "mama"
+          ],
+          "note": "«Yemma» es la forma más tunecina; también se oye «mama».",
+          "review": false
+        },
+        {
+          "id": "u00-l01-bab",
+          "type": "word",
+          "es": "puerta",
+          "tn": "bab",
+          "ar": "باب",
+          "pron": "bab, con la «a» larga",
+          "review": false
+        },
+        {
+          "id": "u00-l01-dar",
+          "type": "word",
+          "es": "casa",
+          "tn": "dar",
+          "ar": "دار",
+          "pron": "dar, con la «r» vibrante suave",
+          "note": "«Dar» aparece en muchos nombres de lugares.",
+          "review": false
+        },
+        {
+          "id": "u00-l01-nhar",
+          "type": "word",
+          "es": "día",
+          "tn": "nhar",
+          "ar": "نهار",
+          "pron": "n-har, con la «h» aspirada",
+          "note": "Se usa en los días de la semana: «nhar el-jom3a».",
+          "review": false
+        },
+        {
+          "id": "u00-l01-lil",
+          "type": "word",
+          "es": "noche",
+          "tn": "lil",
+          "ar": "ليل",
+          "pron": "lil, con la «i» larga",
+          "note": "Con artículo: «ellil» (la noche).",
+          "review": false
+        },
+        {
+          "id": "u00-l01-ma",
+          "type": "word",
+          "es": "agua",
+          "tn": "ma",
+          "ar": "ما",
+          "pron": "ma, corto",
+          "note": "Con artículo: «el-ma».",
+          "review": false
+        },
+        {
+          "id": "u00-l01-kitab",
+          "type": "word",
+          "es": "libro",
+          "tn": "kitab",
+          "ar": "كتاب",
+          "pron": "ki-tab",
+          "review": false
+        },
+        {
+          "id": "u00-l01-tounes",
+          "type": "word",
+          "es": "Túnez",
+          "tn": "Tounes",
+          "ar": "تونس",
+          "pron": "tu-nes: «ou» suena como la «u» española",
+          "note": "Nombre del país y de la capital. De ahí «tounsi» (tunecino).",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u00-l02",
+      "title": "Los sonidos de la garganta",
+      "kind": "normal",
+      "grammar": {
+        "title": "Cinco sonidos nuevos",
+        "text_es": "El 3 (ع, ayn) se hace apretando la garganta al decir una «a». El 7 (ح) es una «h» fuerte y aspirada. «kh» (también se escribe 5, خ) es una «j» española más raspada. El 6 (ط) es una «t» con la lengua más atrás. «gh» (también 8, غ) suena como la «r» francesa de «Paris»."
+      },
+      "items": [
+        {
+          "id": "u00-l02-3am",
+          "type": "word",
+          "es": "año",
+          "tn": "3am",
+          "ar": "عام",
+          "pron": "«3» es la ayn: aprieta la garganta y di «a» desde dentro",
+          "alt": [
+            "3aam"
+          ],
+          "note": "Con la misma 3 empieza «3awed» (repite).",
+          "review": false
+        },
+        {
+          "id": "u00-l02-3in",
+          "type": "word",
+          "es": "ojo",
+          "tn": "3in",
+          "ar": "عين",
+          "pron": "«3» de garganta + «in»",
+          "review": false
+        },
+        {
+          "id": "u00-l02-7out",
+          "type": "word",
+          "es": "pescado",
+          "tn": "7out",
+          "ar": "حوت",
+          "pron": "«7» como si empañaras un cristal con el aliento",
+          "alt": [
+            "hout"
+          ],
+          "note": "Se escribe también «hout» y se oye así en la carta de los restaurantes.",
+          "review": false
+        },
+        {
+          "id": "u00-l02-7lib",
+          "type": "word",
+          "es": "leche",
+          "tn": "7lib",
+          "ar": "حليب",
+          "pron": "«7» aspirada + «lib»",
+          "alt": [
+            "hlib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u00-l02-khobz",
+          "type": "word",
+          "es": "pan",
+          "tn": "khobz",
+          "ar": "خبز",
+          "pron": "«kh» como la «j» de «jamón», pero más raspada",
+          "alt": [
+            "5obz"
+          ],
+          "note": "También se escribe «5obz».",
+          "review": false
+        },
+        {
+          "id": "u00-l02-kheir",
+          "type": "word",
+          "es": "bien, bondad",
+          "tn": "kheir",
+          "ar": "خير",
+          "pron": "«kh» raspada + «eir»",
+          "alt": [
+            "5eir"
+          ],
+          "note": "Parte de «Sbah el-kheir» (buenos días).",
+          "review": false
+        },
+        {
+          "id": "u00-l02-6awla",
+          "type": "word",
+          "es": "mesa",
+          "tn": "6awla",
+          "ar": "طاولة",
+          "pron": "«6» es una «t» con la lengua hacia atrás",
+          "alt": [
+            "tawla"
+          ],
+          "note": "Muchos tunecinos escriben «tawla».",
+          "review": false
+        },
+        {
+          "id": "u00-l02-ghali",
+          "type": "word",
+          "es": "caro",
+          "tn": "ghali",
+          "ar": "غالي",
+          "pron": "«gh» como la «r» francesa de «Paris»",
+          "alt": [
+            "8ali"
+          ],
+          "note": "También se escribe «8ali». Lo usarás para los precios.",
+          "review": false
+        },
+        {
+          "id": "u00-l02-ghodwa",
+          "type": "word",
+          "es": "mañana (el día de mañana)",
+          "tn": "ghodwa",
+          "ar": "غدوة",
+          "pron": "«gh» gutural + «od-wa»",
+          "alt": [
+            "8odwa"
+          ],
+          "note": "También «8odwa».",
+          "review": false
+        },
+        {
+          "id": "u00-l02-7ammam",
+          "type": "word",
+          "es": "baño, hammam",
+          "tn": "7ammam",
+          "ar": "حمّام",
+          "pron": "«7» aspirada, la «m» se alarga",
+          "alt": [
+            "hammam"
+          ],
+          "note": "Los hammams son baños públicos tradicionales.",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u00-l03",
+      "title": "El sonido de la q y la glotis",
+      "kind": "normal",
+      "grammar": {
+        "title": "9 y 2",
+        "text_es": "El 9 (ق) en Túnez capital se pronuncia como una «k» muy atrás en la garganta, casi una «q»; en otras zonas del país se oye como una «g». Ojo: no es una «k» normal. El 2 (ء) es un golpe de glotis, la pausa de «uh-oh»; en el habla real muchos hamza se pierden."
+      },
+      "items": [
+        {
+          "id": "u00-l03-9alb",
+          "type": "word",
+          "es": "corazón",
+          "tn": "9alb",
+          "ar": "قلب",
+          "pron": "«9»: una «k» desde el fondo de la garganta",
+          "alt": [
+            "qalb"
+          ],
+          "note": "También se escribe «qalb».",
+          "review": false
+        },
+        {
+          "id": "u00-l03-9ahwa",
+          "type": "word",
+          "es": "café",
+          "tn": "9ahwa",
+          "ar": "قهوة",
+          "pron": "«9» profunda + «ah-wa»",
+          "alt": [
+            "qahwa",
+            "kahwa"
+          ],
+          "note": "Se oye también «kahwa» en algunas zonas.",
+          "review": false
+        },
+        {
+          "id": "u00-l03-9alam",
+          "type": "word",
+          "es": "bolígrafo",
+          "tn": "9alam",
+          "ar": "قلم",
+          "pron": "«9» profunda + «alam»",
+          "alt": [
+            "qalam"
+          ],
+          "review": false
+        },
+        {
+          "id": "u00-l03-9rib",
+          "type": "word",
+          "es": "cerca",
+          "tn": "9rib",
+          "ar": "قريب",
+          "pron": "«9» profunda + «rib»",
+          "alt": [
+            "qrib"
+          ],
+          "note": "Lo contrario: «b3id» (lejos).",
+          "review": false
+        },
+        {
+          "id": "u00-l03-9dim",
+          "type": "word",
+          "es": "viejo, antiguo",
+          "tn": "9dim",
+          "ar": "قديم",
+          "pron": "«9» profunda + «dim»",
+          "alt": [
+            "qdim"
+          ],
+          "note": "Lo contrario: «jdid» (nuevo).",
+          "review": false
+        },
+        {
+          "id": "u00-l03-9addech",
+          "type": "word",
+          "es": "¿cuánto?",
+          "tn": "9addech",
+          "ar": "قدّاش",
+          "pron": "«9a-ddech», la «d» se alarga; «ch» como sh inglesa",
+          "alt": [
+            "qaddech",
+            "9adech"
+          ],
+          "note": "La pregunta clave para los precios.",
+          "review": false
+        },
+        {
+          "id": "u00-l03-9attous",
+          "type": "word",
+          "es": "gato",
+          "tn": "9attous",
+          "ar": "قطوس",
+          "pron": "«9» profunda + «a-ttous»",
+          "alt": [
+            "qattous"
+          ],
+          "review": false
+        },
+        {
+          "id": "u00-l03-9bal",
+          "type": "word",
+          "es": "antes",
+          "tn": "9bal",
+          "ar": "قبل",
+          "pron": "«9» profunda + «bal»",
+          "alt": [
+            "qbal"
+          ],
+          "review": false
+        },
+        {
+          "id": "u00-l03-2akid",
+          "type": "word",
+          "es": "seguro, claro",
+          "tn": "2akid",
+          "ar": "أكيد",
+          "pron": "«2» es un golpe de glotis antes de la «a»",
+          "alt": [
+            "akid"
+          ],
+          "note": "En el habla rápida se pierde la hamza y se oye «akid».",
+          "review": true
+        },
+        {
+          "id": "u00-l03-nes2el",
+          "type": "word",
+          "es": "pregunto",
+          "tn": "nes2el",
+          "ar": "نسأل",
+          "pron": "«nes» + golpe de glotis + «el»",
+          "alt": [
+            "nesel"
+          ],
+          "note": "Forma de presente; la hamza suele perderse y se oye «nes-el».",
+          "review": true
+        }
+      ]
+    },
+    {
+      "id": "u00-l04",
+      "title": "Sh, j, s, dh y la r gutural",
+      "kind": "normal",
+      "grammar": {
+        "title": "Cuatro sonidos más",
+        "text_es": "«ch» es la «sh» inglesa. «j» es la «j» suave del francés «je» (no la española). «s» siempre suena como «s». «dh» (ض) es una «d» enfática: lengua hacia atrás y mandíbula relajada. «gh» es la «r» gutural, como en «ghorfa»."
+      },
+      "items": [
+        {
+          "id": "u00-l04-chay",
+          "type": "word",
+          "es": "té",
+          "tn": "chay",
+          "ar": "شاي",
+          "pron": "«ch» como la sh de «shoe»",
+          "alt": [
+            "shay"
+          ],
+          "note": "Con menta: «chay b-na3na3».",
+          "review": false
+        },
+        {
+          "id": "u00-l04-chhar",
+          "type": "word",
+          "es": "mes",
+          "tn": "chhar",
+          "ar": "شهر",
+          "pron": "ch-har, con la «h» aspirada",
+          "review": false
+        },
+        {
+          "id": "u00-l04-chwaya",
+          "type": "word",
+          "es": "un poco",
+          "tn": "chwaya",
+          "ar": "شويّة",
+          "pron": "ch-wa-ya",
+          "alt": [
+            "shwaya"
+          ],
+          "note": "Muy útil: «zid chwaya» (un poco más).",
+          "review": false
+        },
+        {
+          "id": "u00-l04-chnowa",
+          "type": "word",
+          "es": "¿qué?",
+          "tn": "chnowa",
+          "ar": "شنوة",
+          "pron": "ch-no-wa",
+          "alt": [
+            "shnowa"
+          ],
+          "note": "La palabra para preguntar «qué».",
+          "review": false
+        },
+        {
+          "id": "u00-l04-jdid",
+          "type": "word",
+          "es": "nuevo",
+          "tn": "jdid",
+          "ar": "جديد",
+          "pron": "«j» suave, como la de «je» en francés",
+          "note": "Lo contrario de «9dim».",
+          "review": false
+        },
+        {
+          "id": "u00-l04-jom3a",
+          "type": "word",
+          "es": "viernes",
+          "tn": "jom3a",
+          "ar": "جمعة",
+          "pron": "«j» suave + «om» + la 3 profunda",
+          "note": "Es el día de la oración del mediodía y, para muchos, de reposo.",
+          "review": false
+        },
+        {
+          "id": "u00-l04-jaw",
+          "type": "word",
+          "es": "clima, ambiente",
+          "tn": "jaw",
+          "ar": "جو",
+          "pron": "«j» suave + «aw»",
+          "review": false
+        },
+        {
+          "id": "u00-l04-sa3a",
+          "type": "word",
+          "es": "hora, reloj",
+          "tn": "sa3a",
+          "ar": "ساعة",
+          "pron": "«s» + «a» + la 3 de garganta",
+          "note": "Para decir la hora: «es-sa3a zouz».",
+          "review": false
+        },
+        {
+          "id": "u00-l04-dhaw",
+          "type": "word",
+          "es": "luz",
+          "tn": "dhaw",
+          "ar": "ضو",
+          "pron": "«dh» enfática, lengua atrás",
+          "alt": [
+            "daw"
+          ],
+          "note": "Es la luz en general (también la eléctrica).",
+          "review": false
+        },
+        {
+          "id": "u00-l04-dhif",
+          "type": "word",
+          "es": "invitado",
+          "tn": "dhif",
+          "ar": "ضيف",
+          "pron": "«dh» enfática + «if»",
+          "alt": [
+            "dif"
+          ],
+          "note": "En Túnez, tratar bien al «dhif» es sagrado.",
+          "review": false
+        },
+        {
+          "id": "u00-l04-ghorfa",
+          "type": "word",
+          "es": "habitación",
+          "tn": "ghorfa",
+          "ar": "غرفة",
+          "pron": "«gh» gutural + «or-fa»",
+          "alt": [
+            "8orfa"
+          ],
+          "review": false
+        }
+      ]
+    }
+  ],
+  "id": "u00",
+  "title": "Sonidos tunecinos",
+  "can_do": "Puedes leer en latín las palabras tunecinas básicas y reconocer sus sonidos.",
+  "color": "#5b4b8a",
+  "icon": "sound"
+}

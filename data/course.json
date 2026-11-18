@@ -1,0 +1,19 @@
+{
+  "title": "Taunsi",
+  "version": 1,
+  "units": [
+    "u00-sonidos",
+    "u01-saludos",
+    "u02-numeros",
+    "u03-yo-tu",
+    "u04-comida",
+    "u05-mercado",
+    "u06-familia",
+    "u07-tiempo",
+    "u08-ciudad",
+    "u09-presente",
+    "u10-pasado",
+    "u11-salud",
+    "u12-conversacion"
+  ]
+}

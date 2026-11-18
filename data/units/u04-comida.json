@@ -1,0 +1,594 @@
+{
+  "lessons": [
+    {
+      "id": "u04-l01",
+      "title": "Comida tunecina",
+      "kind": "normal",
+      "grammar": {
+        "title": "Platos y alimentos",
+        "text_es": "Platos típicos: «kseksi» (cuscús), «brik» (empanadilla frita con huevo), «lablabi» (sopa de garbanzos). «Khodhra» son las verduras; en la carta oirás también el préstamo francés «légumes». Los sustantivos llevan el artículo «el-»: «el-khobz»."
+      },
+      "items": [
+        {
+          "id": "u04-l01-khobz",
+          "type": "word",
+          "es": "pan",
+          "tn": "khobz",
+          "ar": "خبز",
+          "pron": "kh-obz con la «kh» raspada",
+          "alt": [
+            "5obz"
+          ],
+          "note": "Se come con casi todo. Se escribe también «5obz».",
+          "review": false
+        },
+        {
+          "id": "u04-l01-kseksi",
+          "type": "word",
+          "es": "cuscús",
+          "tn": "kseksi",
+          "ar": "كسكسي",
+          "pron": "ks-ek-si",
+          "alt": [
+            "kosksi"
+          ],
+          "note": "Plato nacional. También se oye «kosksi».",
+          "review": false
+        },
+        {
+          "id": "u04-l01-brik",
+          "type": "word",
+          "es": "brik (empanadilla frita)",
+          "tn": "brik",
+          "ar": "بريك",
+          "pron": "brik",
+          "note": "Suele llevar huevo y atún.",
+          "review": false
+        },
+        {
+          "id": "u04-l01-lablabi",
+          "type": "word",
+          "es": "lablabi (sopa de garbanzos)",
+          "tn": "lablabi",
+          "ar": "لبلابي",
+          "pron": "lab-la-bi",
+          "note": "Sopa de garbanzos con pan, muy popular en el desayuno.",
+          "review": false
+        },
+        {
+          "id": "u04-l01-lham",
+          "type": "word",
+          "es": "carne",
+          "tn": "lham",
+          "ar": "لحم",
+          "pron": "l-ham, con la «h» aspirada (7)",
+          "alt": [
+            "lham"
+          ],
+          "note": "Se dice «el-lham».",
+          "review": false
+        },
+        {
+          "id": "u04-l01-7out",
+          "type": "word",
+          "es": "pescado",
+          "tn": "7out",
+          "ar": "حوت",
+          "pron": "h aspirada (7) + «out»",
+          "alt": [
+            "hout"
+          ],
+          "note": "Se escribe también «hout».",
+          "review": false
+        },
+        {
+          "id": "u04-l01-khodhra",
+          "type": "word",
+          "es": "verduras",
+          "tn": "khodhra",
+          "ar": "خضرة",
+          "pron": "kho-dhra",
+          "alt": [
+            "5odhra"
+          ],
+          "note": "En la carta aparece «légumes» (préstamo francés).",
+          "review": false
+        },
+        {
+          "id": "u04-l01-bid",
+          "type": "word",
+          "es": "huevos",
+          "tn": "bid",
+          "ar": "بيض",
+          "pron": "bid",
+          "review": false
+        },
+        {
+          "id": "u04-l01-jben",
+          "type": "word",
+          "es": "queso",
+          "tn": "jben",
+          "ar": "جبن",
+          "pron": "jben",
+          "review": false
+        },
+        {
+          "id": "u04-l01-zit",
+          "type": "word",
+          "es": "aceite",
+          "tn": "zit",
+          "ar": "زيت",
+          "pron": "zit",
+          "note": "«Zit zitouna» es aceite de oliva.",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u04-l02",
+      "title": "Bebidas y café",
+      "kind": "normal",
+      "grammar": {
+        "title": "Té, café y agua",
+        "text_es": "«Ma» es agua, «chay» es té, «9ahwa» es café. Un favorito: «chay b-na3na3» (té con menta). El café tunecino de las cafeterías es el «capucin» (café con un poco de leche, nombre francés). «Bla sokkar» es «sin azúcar»."
+      },
+      "items": [
+        {
+          "id": "u04-l02-ma",
+          "type": "word",
+          "es": "agua",
+          "tn": "ma",
+          "ar": "ما",
+          "pron": "ma",
+          "note": "«Ma barid» es agua fría.",
+          "review": false
+        },
+        {
+          "id": "u04-l02-chay",
+          "type": "word",
+          "es": "té",
+          "tn": "chay",
+          "ar": "شاي",
+          "pron": "«ch» como la sh de «shoe»",
+          "review": false
+        },
+        {
+          "id": "u04-l02-9ahwa",
+          "type": "word",
+          "es": "café",
+          "tn": "9ahwa",
+          "ar": "قهوة",
+          "pron": "«9» profunda + «ahwa»",
+          "alt": [
+            "qahwa",
+            "kahwa"
+          ],
+          "note": "También «qahwa».",
+          "review": false
+        },
+        {
+          "id": "u04-l02-7lib",
+          "type": "word",
+          "es": "leche",
+          "tn": "7lib",
+          "ar": "حليب",
+          "pron": "h aspirada + «lib»",
+          "alt": [
+            "hlib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l02-3asir",
+          "type": "word",
+          "es": "zumo",
+          "tn": "3asir",
+          "ar": "عصير",
+          "pron": "3a-sir",
+          "review": false
+        },
+        {
+          "id": "u04-l02-na3na3",
+          "type": "word",
+          "es": "menta",
+          "tn": "na3na3",
+          "ar": "نعناع",
+          "pron": "na3-na3",
+          "note": "Se echa al té: «chay b-na3na3».",
+          "review": false
+        },
+        {
+          "id": "u04-l02-chay-b-na3na3",
+          "type": "phrase",
+          "es": "té con menta",
+          "tn": "chay b-na3na3",
+          "ar": "شاي بنعناع",
+          "alt": [
+            "chay bna3na3"
+          ],
+          "tokens": [
+            "chay",
+            "b-na3na3"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l02-9ahwa-3arbi",
+          "type": "phrase",
+          "es": "café fuerte (café «árabe»)",
+          "tn": "9ahwa 3arbi",
+          "ar": "قهوة عربي",
+          "note": "Café negro, fuerte y con poca agua.",
+          "tokens": [
+            "9ahwa",
+            "3arbi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l02-capucin",
+          "type": "word",
+          "es": "capucin (café con leche)",
+          "tn": "capucin",
+          "ar": "كابوسان",
+          "pron": "ka-pu-san",
+          "alt": [
+            "cappuccino"
+          ],
+          "note": "Préstamo del francés; es un café con poca leche.",
+          "review": false
+        },
+        {
+          "id": "u04-l02-sokkar",
+          "type": "word",
+          "es": "azúcar",
+          "tn": "sokkar",
+          "ar": "سكّر",
+          "pron": "sok-kar",
+          "alt": [
+            "soukkar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l02-bla-sokkar",
+          "type": "phrase",
+          "es": "sin azúcar",
+          "tn": "Bla sokkar",
+          "ar": "بلا سكّر",
+          "alt": [
+            "bla soukkar"
+          ],
+          "note": "«bla» = sin.",
+          "tokens": [
+            "Bla",
+            "sokkar"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u04-l03",
+      "title": "Pedir en un café",
+      "kind": "normal",
+      "grammar": {
+        "title": "Quiero, dame, más",
+        "text_es": "«Nheb» (quiero), «3tini» (dame), «zid» (añade/más). «Barcha» (mucho) y «chwaya» (un poco) para las cantidades. Para pedir la cuenta: «El-7seb, min fadhlek». Al servir, se dice «Bsa7a» (¡que aproveches!)."
+      },
+      "items": [
+        {
+          "id": "u04-l03-nheb-9ahwa",
+          "type": "phrase",
+          "es": "Quiero un café",
+          "tn": "Nheb 9ahwa",
+          "ar": "نحب قهوة",
+          "pron": "n-heb 9ah-wa",
+          "note": "«Nheb» = quiero o me gusta.",
+          "tokens": [
+            "Nheb",
+            "9ahwa"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l03-nheb-chay",
+          "type": "phrase",
+          "es": "Quiero un té",
+          "tn": "Nheb chay",
+          "ar": "نحب شاي",
+          "tokens": [
+            "Nheb",
+            "chay"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l03-nheb-ma",
+          "type": "phrase",
+          "es": "Quiero agua",
+          "tn": "Nheb ma",
+          "ar": "نحب ما",
+          "tokens": [
+            "Nheb",
+            "ma"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l03-3tini-ma",
+          "type": "phrase",
+          "es": "Dame agua",
+          "tn": "3tini ma",
+          "ar": "عطيني ما",
+          "pron": "3a-ti-ni ma",
+          "alt": [
+            "3atini ma"
+          ],
+          "note": "La 3 es la garganta profunda.",
+          "tokens": [
+            "3tini",
+            "ma"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l03-3tini-khobz",
+          "type": "phrase",
+          "es": "Dame pan",
+          "tn": "3tini khobz",
+          "ar": "عطيني خبز",
+          "tokens": [
+            "3tini",
+            "khobz"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l03-zid",
+          "type": "word",
+          "es": "Más / añade",
+          "tn": "Zid",
+          "ar": "زيد",
+          "pron": "zid",
+          "note": "Se usa también como «¿hay más?».",
+          "review": false
+        },
+        {
+          "id": "u04-l03-zid-khobz",
+          "type": "phrase",
+          "es": "Más pan",
+          "tn": "Zid khobz",
+          "ar": "زيد خبز",
+          "tokens": [
+            "Zid",
+            "khobz"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l03-el-7seb-min-fadhlek",
+          "type": "phrase",
+          "es": "La cuenta, por favor",
+          "tn": "El-7seb min fadhlek",
+          "ar": "الحساب من فضلك",
+          "alt": [
+            "el hseb min fadhlek",
+            "el-hseb min fadhlek"
+          ],
+          "note": "«Min fadhlek» es formal; en la calle basta «el-7seb».",
+          "tokens": [
+            "El-7seb",
+            "min",
+            "fadhlek"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l03-bsa7a",
+          "type": "word",
+          "es": "¡Que aproveche!",
+          "tn": "Bsa7a",
+          "ar": "بصحّة",
+          "pron": "b-sa-7a",
+          "alt": [
+            "bsaha"
+          ],
+          "note": "Se dice a quien come o bebe. También «bsa7tek».",
+          "review": true
+        },
+        {
+          "id": "u04-l03-nheb-9ahwa-w-khobz",
+          "type": "sentence",
+          "es": "Quiero café y pan",
+          "tn": "Nheb 9ahwa w khobz",
+          "ar": "نحب قهوة وخبز",
+          "note": "«w» = y.",
+          "tokens": [
+            "Nheb",
+            "9ahwa",
+            "w",
+            "khobz"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Nheb 9ahwa",
+          "es": "Quiero un café",
+          "ar": "نحب قهوة"
+        },
+        {
+          "role": "B",
+          "tn": "Behi",
+          "es": "Vale"
+        },
+        {
+          "role": "A",
+          "tn": "W 3tini ma",
+          "es": "Y dame agua"
+        },
+        {
+          "role": "B",
+          "tn": "Behi, bsa7a",
+          "es": "Vale, que aproveche"
+        }
+      ]
+    },
+    {
+      "id": "u04-l04",
+      "title": "Esto me gusta",
+      "kind": "normal",
+      "grammar": {
+        "title": "Hedha, hedhi y gustos",
+        "text_es": "«Hedha» (esto, masculino) y «hedhi» (esto, femenino). «Nheb el-brik» (me gusta el brik) y «ma nhebch el-lham» (no me gusta la carne). «Mezyan» significa bueno/bonito y «bnin» rico (para la comida)."
+      },
+      "items": [
+        {
+          "id": "u04-l04-hedha",
+          "type": "word",
+          "es": "esto (masculino)",
+          "tn": "Hedha",
+          "ar": "هذا",
+          "pron": "hed-ha",
+          "note": "En árabe estándar es «hadha».",
+          "review": false
+        },
+        {
+          "id": "u04-l04-hedhi",
+          "type": "word",
+          "es": "esto (femenino)",
+          "tn": "Hedhi",
+          "ar": "هذي",
+          "pron": "hed-hi",
+          "review": false
+        },
+        {
+          "id": "u04-l04-chnowa-hedha",
+          "type": "phrase",
+          "es": "¿Qué es esto?",
+          "tn": "Chnowa hedha",
+          "ar": "شنوة هذا",
+          "tokens": [
+            "Chnowa",
+            "hedha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l04-hedha-behi",
+          "type": "phrase",
+          "es": "Esto está bien",
+          "tn": "Hedha behi",
+          "ar": "هذا باهي",
+          "tokens": [
+            "Hedha",
+            "behi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l04-hedha-bnin",
+          "type": "phrase",
+          "es": "Esto está rico",
+          "tn": "Hedha bnin",
+          "ar": "هذا بنين",
+          "note": "Revisar la forma con un hablante nativo; también se oye «bnina» (femenino).",
+          "tokens": [
+            "Hedha",
+            "bnin"
+          ],
+          "review": true
+        },
+        {
+          "id": "u04-l04-nheb-el-brik",
+          "type": "phrase",
+          "es": "Me gusta el brik",
+          "tn": "Nheb el-brik",
+          "ar": "نحب البريك",
+          "note": "«el-» es el artículo definido.",
+          "tokens": [
+            "Nheb",
+            "el-brik"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l04-nheb-el-kseksi",
+          "type": "phrase",
+          "es": "Me gusta el cuscús",
+          "tn": "Nheb el-kseksi",
+          "ar": "نحب الكسكسي",
+          "tokens": [
+            "Nheb",
+            "el-kseksi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l04-ma-nhebch-el-lham",
+          "type": "phrase",
+          "es": "No me gusta la carne",
+          "tn": "Ma nhebch el-lham",
+          "ar": "ما نحبش اللحم",
+          "pron": "ma n-hebch",
+          "tokens": [
+            "Ma",
+            "nhebch",
+            "el-lham"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l04-ma-nhebch-el-7out",
+          "type": "phrase",
+          "es": "No me gusta el pescado",
+          "tn": "Ma nhebch el-7out",
+          "ar": "ما نحبش الحوت",
+          "alt": [
+            "ma nhebch el-hout"
+          ],
+          "tokens": [
+            "Ma",
+            "nhebch",
+            "el-7out"
+          ],
+          "review": false
+        },
+        {
+          "id": "u04-l04-mezyan",
+          "type": "word",
+          "es": "bueno, bonito",
+          "tn": "mezyan",
+          "ar": "مزيان",
+          "pron": "mez-yan",
+          "alt": [
+            "mzyen",
+            "mezyen"
+          ],
+          "note": "Se oye también «mzyen».",
+          "review": false
+        },
+        {
+          "id": "u04-l04-barcha-mezyan",
+          "type": "phrase",
+          "es": "muy bueno",
+          "tn": "Barcha mezyan",
+          "ar": "برشا مزيان",
+          "tokens": [
+            "Barcha",
+            "mezyan"
+          ],
+          "review": false
+        }
+      ]
+    }
+  ],
+  "id": "u04",
+  "title": "Comida, bebida y café",
+  "can_do": "Puedes pedir comida y bebida y decir qué te gusta.",
+  "color": "#a8325e",
+  "icon": "food"
+}

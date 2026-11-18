@@ -1,0 +1,525 @@
+{
+  "lessons": [
+    {
+      "id": "u10-l01",
+      "title": "Yo, en pasado",
+      "kind": "normal",
+      "grammar": {
+        "title": "-t",
+        "text_es": "El pasado de «yo» (y «tú») termina en «-t»: klit (comí), chrebt (bebí), mchit (fui), jit (vine), khdemt (trabajé), chrit (compré), chift (vi), 9rit (estudié), rje3t (volví), r9adt (dormí). En el habla tunisina «klit» suele escribirse así (no «kelt»)."
+      },
+      "items": [
+        {
+          "id": "u10-l01-klit",
+          "type": "word",
+          "es": "comí",
+          "tn": "klit",
+          "ar": "كليت",
+          "pron": "kli-t",
+          "alt": [
+            "kelt"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l01-chrebt",
+          "type": "word",
+          "es": "bebí",
+          "tn": "chrebt",
+          "ar": "شربت",
+          "pron": "chreb-t",
+          "review": false
+        },
+        {
+          "id": "u10-l01-mchit",
+          "type": "word",
+          "es": "fui",
+          "tn": "mchit",
+          "ar": "مشيت",
+          "pron": "mchit",
+          "review": false
+        },
+        {
+          "id": "u10-l01-jit",
+          "type": "word",
+          "es": "vine",
+          "tn": "jit",
+          "ar": "جيت",
+          "pron": "jit",
+          "review": false
+        },
+        {
+          "id": "u10-l01-khdemt",
+          "type": "word",
+          "es": "trabajé",
+          "tn": "khdemt",
+          "ar": "خدمت",
+          "pron": "khdemt",
+          "alt": [
+            "5demt"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l01-chrit",
+          "type": "word",
+          "es": "compré",
+          "tn": "chrit",
+          "ar": "شريت",
+          "pron": "chrit",
+          "alt": [
+            "chriit"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l01-chift",
+          "type": "word",
+          "es": "vi",
+          "tn": "chift",
+          "ar": "شفت",
+          "pron": "chift",
+          "review": false
+        },
+        {
+          "id": "u10-l01-9rit",
+          "type": "word",
+          "es": "estudié / leí",
+          "tn": "9rit",
+          "ar": "قريت",
+          "pron": "9rit",
+          "alt": [
+            "qrit"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l01-rje3t",
+          "type": "word",
+          "es": "volví",
+          "tn": "rje3t",
+          "ar": "رجعت",
+          "pron": "rje3t",
+          "review": false
+        },
+        {
+          "id": "u10-l01-r9adt",
+          "type": "word",
+          "es": "dormí",
+          "tn": "r9adt",
+          "ar": "رقدت",
+          "pron": "rgadt",
+          "alt": [
+            "rgadt"
+          ],
+          "note": "Se oye también «rgadt».",
+          "review": true
+        }
+      ]
+    },
+    {
+      "id": "u10-l02",
+      "title": "Todas las personas en pasado",
+      "kind": "normal",
+      "grammar": {
+        "title": "Terminaciones",
+        "text_es": "Con «mchit»: mchit (yo), mchit (tú), mcha (él), mchat (ella), mchina (nosotros), mchitou (vosotros), mchaw (ellos). Fíjate: yo y tú se escriben igual; el contexto aclara quién habla."
+      },
+      "items": [
+        {
+          "id": "u10-l02-ena-mchit",
+          "type": "phrase",
+          "es": "yo fui",
+          "tn": "Ena mchit",
+          "ar": "أنا مشيت",
+          "pron": "e-na mchit, la «ch» suena como sh inglesa",
+          "tokens": [
+            "Ena",
+            "mchit"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-inta-mchit",
+          "type": "phrase",
+          "es": "tú fuiste",
+          "tn": "Inta mchit",
+          "ar": "إنتا مشيت",
+          "tokens": [
+            "Inta",
+            "mchit"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-howa-mcha",
+          "type": "phrase",
+          "es": "él fue",
+          "tn": "Howa mcha",
+          "ar": "هو مشى",
+          "tokens": [
+            "Howa",
+            "mcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-hiya-mchat",
+          "type": "phrase",
+          "es": "ella fue",
+          "tn": "Hiya mchat",
+          "ar": "هي مشات",
+          "tokens": [
+            "Hiya",
+            "mchat"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-a7na-mchina",
+          "type": "phrase",
+          "es": "nosotros fuimos",
+          "tn": "A7na mchina",
+          "ar": "احنا مشينا",
+          "alt": [
+            "ahna mchina"
+          ],
+          "tokens": [
+            "A7na",
+            "mchina"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-intouma-mchitou",
+          "type": "phrase",
+          "es": "vosotros fuisteis",
+          "tn": "Intouma mchitou",
+          "ar": "إنتوما مشيتو",
+          "tokens": [
+            "Intouma",
+            "mchitou"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-houma-mchaw",
+          "type": "phrase",
+          "es": "ellos fueron",
+          "tn": "Houma mchaw",
+          "ar": "هوما مشاو",
+          "tokens": [
+            "Houma",
+            "mchaw"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-win-mchit",
+          "type": "phrase",
+          "es": "¿adónde fuiste?",
+          "tn": "Win mchit",
+          "ar": "وين مشيت",
+          "tokens": [
+            "Win",
+            "mchit"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l02-mchit-l-sousse",
+          "type": "phrase",
+          "es": "fui a Sousse",
+          "tn": "Mchit l-Sousse",
+          "ar": "مشيت لسوسة",
+          "tokens": [
+            "Mchit",
+            "l-Sousse"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u10-l03",
+      "title": "Cuándo ocurrió",
+      "kind": "normal",
+      "grammar": {
+        "title": "Marcadores de tiempo",
+        "text_es": "«El-bareh» (ayer), «awel lbareh» (anteayer), «mel zman» (hace tiempo), «sbou3» (semana): «el-sbou3 elli fet» (la semana pasada). Negación en pasado: «ma klitch», «ma mchitch»."
+      },
+      "items": [
+        {
+          "id": "u10-l03-el-bareh-klit-brik",
+          "type": "phrase",
+          "es": "ayer comí brik",
+          "tn": "El-bareh klit brik",
+          "ar": "البارح كليت بريك",
+          "pron": "el-ba-re7 kli-t brik; «7» aspirada",
+          "tokens": [
+            "El-bareh",
+            "klit",
+            "brik"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l03-el-bareh-mchit-l-souk",
+          "type": "phrase",
+          "es": "ayer fui al zoco",
+          "tn": "El-bareh mchit l-souk",
+          "ar": "البارح مشيت للسوق",
+          "tokens": [
+            "El-bareh",
+            "mchit",
+            "l-souk"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l03-awel-lbareh",
+          "type": "phrase",
+          "es": "anteayer",
+          "tn": "Awel lbareh",
+          "ar": "أول البارح",
+          "tokens": [
+            "Awel",
+            "lbareh"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l03-mel-zman",
+          "type": "phrase",
+          "es": "desde hace tiempo",
+          "tn": "Mel zman",
+          "ar": "مالزمان",
+          "tokens": [
+            "Mel",
+            "zman"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l03-sbou3",
+          "type": "word",
+          "es": "semana",
+          "tn": "sbou3",
+          "ar": "سبوع",
+          "note": "Forma por revisar con un hablante nativo.",
+          "review": true
+        },
+        {
+          "id": "u10-l03-el-sbou3-elli-fet",
+          "type": "phrase",
+          "es": "la semana pasada",
+          "tn": "El-sbou3 elli fet",
+          "ar": "السبوع إلي فات",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "El-sbou3",
+            "elli",
+            "fet"
+          ],
+          "review": true
+        },
+        {
+          "id": "u10-l03-chhar-elli-fet",
+          "type": "phrase",
+          "es": "el mes pasado",
+          "tn": "Chhar elli fet",
+          "ar": "الشهر إلي فات",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Chhar",
+            "elli",
+            "fet"
+          ],
+          "review": true
+        },
+        {
+          "id": "u10-l03-ma-klitch",
+          "type": "phrase",
+          "es": "no comí",
+          "tn": "Ma klitch",
+          "ar": "ما كليتش",
+          "tokens": [
+            "Ma",
+            "klitch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l03-ma-mchitch",
+          "type": "phrase",
+          "es": "no fui",
+          "tn": "Ma mchitch",
+          "ar": "ما مشيتش",
+          "tokens": [
+            "Ma",
+            "mchitch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l03-ma-chritch",
+          "type": "phrase",
+          "es": "no compré",
+          "tn": "Ma chritch",
+          "ar": "ما شريتش",
+          "tokens": [
+            "Ma",
+            "chritch"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u10-l04",
+      "title": "Contar tu día",
+      "kind": "normal",
+      "grammar": {
+        "title": "Qué hiciste",
+        "text_es": "«Chnowa 3melt lbareh?» (¿qué hiciste ayer?). «3melt» = hice. Usa «m3a» (con): «klit m3a 3aylti»."
+      },
+      "items": [
+        {
+          "id": "u10-l04-chnowa-3melt-lbareh",
+          "type": "phrase",
+          "es": "¿qué hiciste ayer?",
+          "tn": "Chnowa 3melt lbareh",
+          "ar": "شنوة عملت البارح",
+          "pron": "ch-no-wa 3a-melt: la 3 es la garganta profunda",
+          "tokens": [
+            "Chnowa",
+            "3melt",
+            "lbareh"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l04-3melt-chghol",
+          "type": "phrase",
+          "es": "hice tareas / trabajé",
+          "tn": "3melt chghol",
+          "ar": "عملت شغل",
+          "tokens": [
+            "3melt",
+            "chghol"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l04-khdemt-barcha",
+          "type": "phrase",
+          "es": "trabajé mucho",
+          "tn": "Khdemt barcha",
+          "ar": "خدمت برشا",
+          "tokens": [
+            "Khdemt",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l04-klit-m3a-3aylti",
+          "type": "phrase",
+          "es": "comí con mi familia",
+          "tn": "Klit m3a 3aylti",
+          "ar": "كليت مع عيلتي",
+          "tokens": [
+            "Klit",
+            "m3a",
+            "3aylti"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l04-chrit-khobz-w-7lib",
+          "type": "sentence",
+          "es": "compré pan y leche",
+          "tn": "Chrit khobz w 7lib",
+          "ar": "شريت خبز وحليب",
+          "alt": [
+            "chrit khobz w hlib"
+          ],
+          "tokens": [
+            "Chrit",
+            "khobz",
+            "w",
+            "7lib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l04-mchit-l-dar",
+          "type": "phrase",
+          "es": "fui a casa",
+          "tn": "Mchit l-dar",
+          "ar": "مشيت للدار",
+          "tokens": [
+            "Mchit",
+            "l-dar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l04-chift-sa7bi",
+          "type": "phrase",
+          "es": "vi a mi amigo",
+          "tn": "Chift sa7bi",
+          "ar": "شفت صاحبي",
+          "alt": [
+            "chift sahbi"
+          ],
+          "note": "«sa7bi» = mi amigo.",
+          "tokens": [
+            "Chift",
+            "sa7bi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u10-l04-mchit-l-souk-w-chrit-khobz",
+          "type": "sentence",
+          "es": "fui al zoco y compré pan",
+          "tn": "Mchit l-souk w chrit khobz",
+          "ar": "مشيت للسوق وشريت خبز",
+          "tokens": [
+            "Mchit",
+            "l-souk",
+            "w",
+            "chrit",
+            "khobz"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Chnowa 3melt lbareh?",
+          "es": "¿Qué hiciste ayer?",
+          "ar": "شنوة عملت البارح"
+        },
+        {
+          "role": "B",
+          "tn": "Mchit l-souk w chrit khobz",
+          "es": "Fui al zoco y compré pan.",
+          "ar": "مشيت للسوق وشريت خبز"
+        },
+        {
+          "role": "A",
+          "tn": "Behi",
+          "es": "Vale."
+        }
+      ]
+    }
+  ],
+  "id": "u10",
+  "title": "El pasado: lo que hiciste",
+  "can_do": "Puedes contar lo que hiciste ayer o la semana pasada.",
+  "color": "#52606d",
+  "icon": "history"
+}

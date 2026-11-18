@@ -1,0 +1,704 @@
+{
+  "lessons": [
+    {
+      "id": "u01-l01",
+      "title": "Hola y adiós",
+      "kind": "normal",
+      "grammar": {
+        "title": "Saludos según la hora",
+        "text_es": "«Ahla» sirve a cualquier hora. «Sbah el-kheir» (buenos días) se responde con «Sbah en-nour»; por la tarde, «Msa el-kheir» y «Msa en-nour». Fíjate en el artículo: «el-» ante «kheir», pero «en-» ante «nour» (la «l» se asimila a la «n»). Un tunecino de cierta edad te saludará a menudo con «3aslema»."
+      },
+      "items": [
+        {
+          "id": "u01-l01-ahla",
+          "type": "word",
+          "es": "¡Hola!",
+          "tn": "Ahla",
+          "ar": "أهلا",
+          "pron": "a-hla, con la «h» aspirada",
+          "alt": [
+            "ahlan"
+          ],
+          "note": "Saludo general, sirve a cualquier hora.",
+          "review": false
+        },
+        {
+          "id": "u01-l01-3aslema",
+          "type": "word",
+          "es": "¡Hola! (saludo tradicional)",
+          "tn": "3aslema",
+          "ar": "عسلامة",
+          "pron": "3-as-le-ma, empieza con la ayn (3 profunda)",
+          "alt": [
+            "aslema",
+            "aaslema"
+          ],
+          "note": "Muy tunecino y algo tradicional; todo el mundo lo entiende.",
+          "review": false
+        },
+        {
+          "id": "u01-l01-sbah-el-kheir",
+          "type": "phrase",
+          "es": "Buenos días",
+          "tn": "Sbah el-kheir",
+          "ar": "صباح الخير",
+          "pron": "sbah el-kheir; «kh» como la «j» española",
+          "alt": [
+            "sbah el 5eir"
+          ],
+          "note": "Se usa hasta media mañana. Se responde «Sbah en-nour».",
+          "tokens": [
+            "Sbah",
+            "el-kheir"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l01-sbah-en-nour",
+          "type": "phrase",
+          "es": "Buenos días (respuesta)",
+          "tn": "Sbah en-nour",
+          "ar": "صباح النور",
+          "pron": "sbah en-nour",
+          "note": "Literalmente «mañana de luz».",
+          "tokens": [
+            "Sbah",
+            "en-nour"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l01-msa-el-kheir",
+          "type": "phrase",
+          "es": "Buenas tardes / buenas noches",
+          "tn": "Msa el-kheir",
+          "ar": "مساء الخير",
+          "pron": "msa el-kheir",
+          "note": "Se usa desde la tarde para saludar.",
+          "tokens": [
+            "Msa",
+            "el-kheir"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l01-msa-en-nour",
+          "type": "phrase",
+          "es": "Buenas tardes (respuesta)",
+          "tn": "Msa en-nour",
+          "ar": "مساء النور",
+          "pron": "msa en-nour",
+          "note": "Respuesta a «Msa el-kheir».",
+          "tokens": [
+            "Msa",
+            "en-nour"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l01-bslama",
+          "type": "word",
+          "es": "Adiós",
+          "tn": "Bslama",
+          "ar": "بسلامة",
+          "pron": "b-sla-ma",
+          "alt": [
+            "bsslema",
+            "besslama"
+          ],
+          "note": "Literalmente «con salud». Sirve para despedirse de cualquiera.",
+          "review": false
+        },
+        {
+          "id": "u01-l01-nchoufek-ba3d",
+          "type": "phrase",
+          "es": "Hasta luego",
+          "tn": "Nchoufek ba3d",
+          "ar": "نشوفك بعد",
+          "pron": "nchou-fek ba3d; la 3 es la garganta profunda",
+          "note": "Literalmente «te veo después». Vale para hombre y mujer.",
+          "tokens": [
+            "Nchoufek",
+            "ba3d"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l01-nhar-zin",
+          "type": "phrase",
+          "es": "¡Que tengas un buen día!",
+          "tn": "Nhar zin",
+          "ar": "نهار زين",
+          "pron": "nhar zin",
+          "note": "Deseo al despedirse.",
+          "tokens": [
+            "Nhar",
+            "zin"
+          ],
+          "review": true
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Ahla!",
+          "es": "¡Hola!",
+          "ar": "أهلا"
+        },
+        {
+          "role": "B",
+          "tn": "Ahla, labes?",
+          "es": "¡Hola! ¿Qué tal?"
+        },
+        {
+          "role": "A",
+          "tn": "Sbah el-kheir",
+          "es": "Buenos días",
+          "ar": "صباح الخير"
+        },
+        {
+          "role": "B",
+          "tn": "Sbah en-nour",
+          "es": "Buenos días",
+          "ar": "صباح النور"
+        }
+      ]
+    },
+    {
+      "id": "u01-l02",
+      "title": "¿Qué tal?",
+      "kind": "normal",
+      "grammar": {
+        "title": "Preguntar y responder «¿qué tal?»",
+        "text_es": "«Labes» es pregunta y respuesta a la vez: «Labes?» (¿qué tal?) → «Labes» o «Labes hamdella» (bien, gracias a Dios). Añade «3lik» para dirigirte a alguien: «Labes 3lik?». «Hamdella» es lo que se responde casi siempre, aunque no todo vaya perfecto. «W inta?» (a un hombre) o «w inti?» (a una mujer) devuelve la pregunta."
+      },
+      "items": [
+        {
+          "id": "u01-l02-labes",
+          "type": "word",
+          "es": "¿Qué tal? / Bien",
+          "tn": "Labes",
+          "ar": "لاباس",
+          "pron": "la-bes",
+          "note": "Sirve de pregunta («¿labes?») y de respuesta («labes»).",
+          "review": false
+        },
+        {
+          "id": "u01-l02-labes-3lik",
+          "type": "phrase",
+          "es": "¿Cómo estás?",
+          "tn": "Labes 3lik",
+          "ar": "لاباس عليك",
+          "pron": "la-bes 3a-lik",
+          "note": "La forma más común de preguntar cómo estás.",
+          "tokens": [
+            "Labes",
+            "3lik"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l02-hamdella",
+          "type": "word",
+          "es": "Bien, gracias a Dios",
+          "tn": "Hamdella",
+          "ar": "الحمد لله",
+          "pron": "ham-del-la, con la «h» aspirada",
+          "alt": [
+            "7amdella"
+          ],
+          "note": "Respuesta habitual a «labes?». Es una fórmula religiosa que se usa también sin connotación religiosa fuerte.",
+          "review": false
+        },
+        {
+          "id": "u01-l02-labes-hamdella",
+          "type": "phrase",
+          "es": "Todo bien, gracias a Dios",
+          "tn": "Labes hamdella",
+          "ar": "لاباس الحمد لله",
+          "pron": "la-bes ham-del-la",
+          "alt": [
+            "labes 7amdella"
+          ],
+          "note": "La respuesta completa más típica.",
+          "tokens": [
+            "Labes",
+            "hamdella"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l02-kifech",
+          "type": "word",
+          "es": "¿Cómo?",
+          "tn": "Kifech",
+          "ar": "كيفاش",
+          "pron": "ki-fech; «ch» como la sh inglesa",
+          "note": "También significa «cómo» en general: «kifech?» (¿cómo?).",
+          "review": false
+        },
+        {
+          "id": "u01-l02-behi",
+          "type": "word",
+          "es": "Vale, está bien",
+          "tn": "Behi",
+          "ar": "باهي",
+          "pron": "be-hi",
+          "note": "Es el «ok» tunecino. Sirve también para «bueno/bien».",
+          "review": false
+        },
+        {
+          "id": "u01-l02-mouch-behi",
+          "type": "phrase",
+          "es": "No está bien",
+          "tn": "Mouch behi",
+          "ar": "موش باهي",
+          "pron": "mush be-hi",
+          "note": "«Mouch» niega nombres y adjetivos.",
+          "tokens": [
+            "Mouch",
+            "behi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l02-w-inta",
+          "type": "phrase",
+          "es": "¿Y tú? (a un hombre)",
+          "tn": "W inta",
+          "ar": "و إنتا",
+          "pron": "u in-ta",
+          "alt": [
+            "winta"
+          ],
+          "note": "Se oye casi como una sola palabra: «winta». Con una mujer: «w inti».",
+          "tokens": [
+            "W",
+            "inta"
+          ],
+          "review": true
+        },
+        {
+          "id": "u01-l02-w-inti",
+          "type": "phrase",
+          "es": "¿Y tú? (a una mujer)",
+          "tn": "W inti",
+          "ar": "و إنتي",
+          "pron": "u in-ti",
+          "alt": [
+            "winti"
+          ],
+          "note": "Se pega la «w» (y) al pronombre.",
+          "tokens": [
+            "W",
+            "inti"
+          ],
+          "review": true
+        },
+        {
+          "id": "u01-l02-chnowa-el-a7wel",
+          "type": "phrase",
+          "es": "¿Qué tal todo?",
+          "tn": "Chnowa el-a7wel",
+          "ar": "شنوة الأحوال",
+          "pron": "ch-no-wa el-a7-wel",
+          "alt": [
+            "chnowa el-ahwel"
+          ],
+          "note": "Pregunta más abierta. También se oye «chnowa a7walek».",
+          "tokens": [
+            "Chnowa",
+            "el-a7wel"
+          ],
+          "review": true
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Labes 3lik?",
+          "es": "¿Cómo estás?",
+          "ar": "لاباس عليك"
+        },
+        {
+          "role": "B",
+          "tn": "Hamdella, w inta?",
+          "es": "Bien, gracias a Dios, ¿y tú?"
+        },
+        {
+          "role": "A",
+          "tn": "Behi, hamdella!",
+          "es": "Bien, gracias a Dios."
+        }
+      ]
+    },
+    {
+      "id": "u01-l03",
+      "title": "Presentarse",
+      "kind": "normal",
+      "grammar": {
+        "title": "Yo me llamo, yo soy",
+        "text_es": "Para decir tu nombre: «Ismi + nombre». Para preguntarlo: «Chnowa ismek?» (el sufijo «-ek» sirve para hombre y mujer). «Ena tounsi» es masculino y «Ena tounsia» femenino. Para «de dónde»: «Mnin inta?» a un hombre y «Mnin inti?» a una mujer. «mn» (de) se lee «men»."
+      },
+      "items": [
+        {
+          "id": "u01-l03-ismi-sara",
+          "type": "phrase",
+          "es": "Me llamo Sara",
+          "tn": "Ismi Sara",
+          "ar": "اسمي سارة",
+          "pron": "is-mi sa-ra",
+          "note": "Cambia «Sara» por tu nombre. «Ismi» = «mi nombre».",
+          "tokens": [
+            "Ismi",
+            "Sara"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-chnowa-ismek",
+          "type": "phrase",
+          "es": "¿Cómo te llamas?",
+          "tn": "Chnowa ismek",
+          "ar": "شنوة إسمك",
+          "pron": "ch-no-wa is-mek",
+          "note": "Literalmente «¿cuál es tu nombre?».",
+          "tokens": [
+            "Chnowa",
+            "ismek"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-ena-tounsi",
+          "type": "phrase",
+          "es": "Soy tunecino",
+          "tn": "Ena tounsi",
+          "ar": "أنا تونسي",
+          "pron": "e-na tun-si",
+          "note": "Lo dice un hombre.",
+          "tokens": [
+            "Ena",
+            "tounsi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-ena-tounsia",
+          "type": "phrase",
+          "es": "Soy tunecina",
+          "tn": "Ena tounsia",
+          "ar": "أنا تونسية",
+          "pron": "e-na tun-si-a",
+          "note": "Lo dice una mujer.",
+          "tokens": [
+            "Ena",
+            "tounsia"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-ena-mn-tounes",
+          "type": "phrase",
+          "es": "Soy de Túnez",
+          "tn": "Ena mn Tounes",
+          "ar": "أنا من تونس",
+          "pron": "e-na men tu-nes",
+          "alt": [
+            "ena men tounes"
+          ],
+          "note": "«mn» se pronuncia «men».",
+          "tokens": [
+            "Ena",
+            "mn",
+            "Tounes"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-ena-mn-espanya",
+          "type": "phrase",
+          "es": "Soy de España",
+          "tn": "Ena mn Espanya",
+          "ar": "أنا من إسبانيا",
+          "pron": "e-na men es-pan-ya",
+          "alt": [
+            "ena men espanya"
+          ],
+          "note": "La «ñ» se escribe «ny». También se oye «Isbanya».",
+          "tokens": [
+            "Ena",
+            "mn",
+            "Espanya"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-mnin-inta",
+          "type": "phrase",
+          "es": "¿De dónde eres? (a un hombre)",
+          "tn": "Mnin inta",
+          "ar": "منين إنتا",
+          "pron": "mi-nin in-ta",
+          "note": "A una mujer: «Mnin inti?».",
+          "tokens": [
+            "Mnin",
+            "inta"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-mnin-inti",
+          "type": "phrase",
+          "es": "¿De dónde eres? (a una mujer)",
+          "tn": "Mnin inti",
+          "ar": "منين إنتي",
+          "pron": "mi-nin in-ti",
+          "note": "A un hombre: «Mnin inta?».",
+          "tokens": [
+            "Mnin",
+            "inti"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-nheb-nt3allem-tounsi",
+          "type": "phrase",
+          "es": "Quiero aprender tunecino",
+          "tn": "Nheb nt3allem tounsi",
+          "ar": "نحب نتعلم تونسي",
+          "pron": "n-heb nt3a-lem tun-si; «nt3allem» lleva la 3 profunda",
+          "alt": [
+            "nheb net3allem tounsi"
+          ],
+          "note": "«Nheb» significa «quiero» o «me gusta». Los tunecinos se alegran mucho cuando lo dices.",
+          "tokens": [
+            "Nheb",
+            "nt3allem",
+            "tounsi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l03-tcharafna",
+          "type": "word",
+          "es": "Encantado/a",
+          "tn": "Tcharafna",
+          "ar": "تشرفنا",
+          "pron": "tcha-raf-na; «ch» como sh inglesa",
+          "note": "Se dice al conocer a alguien; vale para hombre y mujer.",
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Chnowa ismek?",
+          "es": "¿Cómo te llamas?",
+          "ar": "شنوة إسمك"
+        },
+        {
+          "role": "B",
+          "tn": "Ismi Sara. W inta?",
+          "es": "Me llamo Sara. ¿Y tú?"
+        },
+        {
+          "role": "A",
+          "tn": "Ismi Karim. Tcharafna!",
+          "es": "Me llamo Karim. ¡Encantado!"
+        },
+        {
+          "role": "B",
+          "tn": "Tcharafna.",
+          "es": "Encantada.",
+          "ar": "تشرفنا"
+        }
+      ]
+    },
+    {
+      "id": "u01-l04",
+      "title": "Sí, no y cortesía",
+      "kind": "normal",
+      "grammar": {
+        "title": "La negación ma … ch",
+        "text_es": "Para negar un verbo se rodea con «ma … ch»: «nefhem» (entiendo) → «ma nefhemch» (no entiendo). «Le» (no) se pronuncia con vocal corta. «Merci» es un préstamo del francés muy usado, igual que en Francia; con «barcha» se refuerza: «Merci barcha»."
+      },
+      "items": [
+        {
+          "id": "u01-l04-iyeh",
+          "type": "word",
+          "es": "Sí",
+          "tn": "Iyeh",
+          "ar": "إيه",
+          "pron": "i-ieh",
+          "alt": [
+            "eyeh",
+            "iyah"
+          ],
+          "note": "Informal y muy habitual.",
+          "review": false
+        },
+        {
+          "id": "u01-l04-le",
+          "type": "word",
+          "es": "No",
+          "tn": "Le",
+          "ar": "لا",
+          "pron": "le, con vocal corta",
+          "note": "Distinto de la «la» del artículo. A menudo se acompaña con «mouch…».",
+          "review": false
+        },
+        {
+          "id": "u01-l04-sma7li",
+          "type": "word",
+          "es": "Perdona / Disculpa",
+          "tn": "Sma7li",
+          "ar": "سماحلي",
+          "pron": "sma-hli, con la h aspirada (7)",
+          "alt": [
+            "smahli"
+          ],
+          "note": "Literalmente «perdóname». Sirve para pedir paso o para disculparte.",
+          "review": false
+        },
+        {
+          "id": "u01-l04-barcha",
+          "type": "word",
+          "es": "Mucho / muchos",
+          "tn": "Barcha",
+          "ar": "برشا",
+          "pron": "bar-cha",
+          "note": "Muy útil: «barcha» refuerza casi todo.",
+          "review": false
+        },
+        {
+          "id": "u01-l04-merci",
+          "type": "word",
+          "es": "Gracias",
+          "tn": "Merci",
+          "ar": "ميرسي",
+          "pron": "mer-si",
+          "alt": [
+            "mercii",
+            "mersi"
+          ],
+          "note": "Préstamo del francés, de uso diario en todo el país.",
+          "review": false
+        },
+        {
+          "id": "u01-l04-merci-barcha",
+          "type": "phrase",
+          "es": "Muchas gracias",
+          "tn": "Merci barcha",
+          "ar": "ميرسي برشا",
+          "pron": "mer-si bar-cha",
+          "tokens": [
+            "Merci",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l04-ya3tik-essa7a",
+          "type": "phrase",
+          "es": "Gracias (que Dios te dé salud)",
+          "tn": "Ya3tik essa7a",
+          "ar": "يعطيك الصحة",
+          "pron": "ya3-tik es-sa-7a",
+          "alt": [
+            "ya3tik essaha"
+          ],
+          "note": "Fórmula tunecina para agradecer un servicio o esfuerzo.",
+          "tokens": [
+            "Ya3tik",
+            "essa7a"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l04-mouch-mochkel",
+          "type": "phrase",
+          "es": "No hay problema",
+          "tn": "Mouch mochkel",
+          "ar": "موش مشكل",
+          "pron": "mush mosh-kel",
+          "note": "Se oye también «ma famech mochkel».",
+          "tokens": [
+            "Mouch",
+            "mochkel"
+          ],
+          "review": true
+        },
+        {
+          "id": "u01-l04-ma-nefhemch",
+          "type": "phrase",
+          "es": "No entiendo",
+          "tn": "Ma nefhemch",
+          "ar": "ما نفهمش",
+          "pron": "ma ne-fhemch",
+          "note": "Negación con «ma … ch».",
+          "tokens": [
+            "Ma",
+            "nefhemch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u01-l04-3awed",
+          "type": "word",
+          "es": "Repite, por favor",
+          "tn": "3awed",
+          "ar": "عاود",
+          "pron": "3a-wed; la 3 es de garganta",
+          "note": "Se usa tal cual, sin «por favor».",
+          "review": false
+        },
+        {
+          "id": "u01-l04-ma-nefhemch-3awed",
+          "type": "phrase",
+          "es": "No entiendo, repite",
+          "tn": "Ma nefhemch 3awed",
+          "ar": "ما نفهمش عاود",
+          "pron": "ma ne-fhemch 3a-wed",
+          "note": "Frase de supervivencia número uno.",
+          "tokens": [
+            "Ma",
+            "nefhemch",
+            "3awed"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Merci barcha!",
+          "es": "¡Muchas gracias!",
+          "ar": "ميرسي برشا"
+        },
+        {
+          "role": "B",
+          "tn": "Mouch mochkel.",
+          "es": "No hay problema.",
+          "ar": "موش مشكل"
+        },
+        {
+          "role": "A",
+          "tn": "Ma nefhemch, 3awed",
+          "es": "No entiendo, repite.",
+          "ar": "ما نفهمش عاود"
+        },
+        {
+          "role": "B",
+          "tn": "Behi, 3awed.",
+          "es": "Vale, repito."
+        }
+      ]
+    }
+  ],
+  "id": "u01",
+  "title": "Saludos y presentaciones",
+  "can_do": "Puedes saludar, responder a «¿qué tal?», presentarte y decir de dónde eres.",
+  "color": "#1b5fa8",
+  "icon": "wave"
+}

@@ -1,0 +1,523 @@
+{
+  "lessons": [
+    {
+      "id": "u03-l01",
+      "title": "Los pronombres",
+      "kind": "normal",
+      "grammar": {
+        "title": "Quién habla",
+        "text_es": "Pronombres: ena (yo), inta (tú, hombre), inti (tú, mujer), howa (él), hiya (ella), a7na (nosotros), intouma (vosotros), houma (ellos/ellas). En tunecino no hace falta «ser»: «Ena tounsi» = «yo tunecino»."
+      },
+      "items": [
+        {
+          "id": "u03-l01-ena",
+          "type": "word",
+          "es": "yo",
+          "tn": "ena",
+          "ar": "أنا",
+          "pron": "e-na",
+          "review": false
+        },
+        {
+          "id": "u03-l01-inta",
+          "type": "word",
+          "es": "tú (a un hombre)",
+          "tn": "inta",
+          "ar": "إنتا",
+          "pron": "in-ta",
+          "review": false
+        },
+        {
+          "id": "u03-l01-inti",
+          "type": "word",
+          "es": "tú (a una mujer)",
+          "tn": "inti",
+          "ar": "إنتي",
+          "pron": "in-ti",
+          "review": false
+        },
+        {
+          "id": "u03-l01-howa",
+          "type": "word",
+          "es": "él",
+          "tn": "howa",
+          "ar": "هو",
+          "pron": "ho-wa",
+          "review": false
+        },
+        {
+          "id": "u03-l01-hiya",
+          "type": "word",
+          "es": "ella",
+          "tn": "hiya",
+          "ar": "هي",
+          "pron": "hi-ya",
+          "review": false
+        },
+        {
+          "id": "u03-l01-a7na",
+          "type": "word",
+          "es": "nosotros",
+          "tn": "a7na",
+          "ar": "احنا",
+          "pron": "a-h-na, con la 7 aspirada",
+          "alt": [
+            "ahna"
+          ],
+          "note": "También se escribe «ahna».",
+          "review": false
+        },
+        {
+          "id": "u03-l01-intouma",
+          "type": "word",
+          "es": "vosotros",
+          "tn": "intouma",
+          "ar": "إنتوما",
+          "pron": "in-tu-ma",
+          "note": "Sirve para hombres, mujeres o mixto.",
+          "review": false
+        },
+        {
+          "id": "u03-l01-houma",
+          "type": "word",
+          "es": "ellos / ellas",
+          "tn": "houma",
+          "ar": "هوما",
+          "pron": "hu-ma",
+          "review": false
+        },
+        {
+          "id": "u03-l01-howa-tounsi",
+          "type": "phrase",
+          "es": "Él es tunecino",
+          "tn": "Howa tounsi",
+          "ar": "هو تونسي",
+          "tokens": [
+            "Howa",
+            "tounsi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l01-hiya-tounsia",
+          "type": "phrase",
+          "es": "Ella es tunecina",
+          "tn": "Hiya tounsia",
+          "ar": "هي تونسية",
+          "tokens": [
+            "Hiya",
+            "tounsia"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l01-ena-w-inta",
+          "type": "phrase",
+          "es": "yo y tú",
+          "tn": "Ena w inta",
+          "ar": "أنا و إنتا",
+          "note": "Se une con «w» (y).",
+          "tokens": [
+            "Ena",
+            "w",
+            "inta"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u03-l02",
+      "title": "Estar y ser de un sitio",
+      "kind": "normal",
+      "grammar": {
+        "title": "fi, mn",
+        "text_es": "«fi» = en; «mn» = de. «Ena fi Tounes» (estoy en Túnez), «Howa mn Fransa» (él es de Francia). Para negar: «mouch» antes: «Ena mouch mn Tounes»."
+      },
+      "items": [
+        {
+          "id": "u03-l02-ena-fi-tounes",
+          "type": "phrase",
+          "es": "Estoy en Túnez",
+          "tn": "Ena fi Tounes",
+          "ar": "أنا في تونس",
+          "note": "«fi» significa «en».",
+          "tokens": [
+            "Ena",
+            "fi",
+            "Tounes"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-ena-fi-madrid",
+          "type": "phrase",
+          "es": "Estoy en Madrid",
+          "tn": "Ena fi Madrid",
+          "ar": "أنا في مدريد",
+          "tokens": [
+            "Ena",
+            "fi",
+            "Madrid"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-howa-mn-fransa",
+          "type": "phrase",
+          "es": "Él es de Francia",
+          "tn": "Howa mn Fransa",
+          "ar": "هو من فرنسا",
+          "pron": "ho-wa men fran-sa",
+          "tokens": [
+            "Howa",
+            "mn",
+            "Fransa"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-hiya-mn-espanya",
+          "type": "phrase",
+          "es": "Ella es de España",
+          "tn": "Hiya mn Espanya",
+          "ar": "هي من إسبانيا",
+          "tokens": [
+            "Hiya",
+            "mn",
+            "Espanya"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-a7na-mn-tounes",
+          "type": "phrase",
+          "es": "Somos de Túnez",
+          "tn": "A7na mn Tounes",
+          "ar": "احنا من تونس",
+          "alt": [
+            "ahna mn tounes"
+          ],
+          "tokens": [
+            "A7na",
+            "mn",
+            "Tounes"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-houma-mn-sfax",
+          "type": "phrase",
+          "es": "Ellos son de Sfax",
+          "tn": "Houma mn Sfax",
+          "ar": "هوما من صفاقس",
+          "alt": [
+            "houma mn sfax"
+          ],
+          "note": "Sfax es la segunda ciudad del país.",
+          "tokens": [
+            "Houma",
+            "mn",
+            "Sfax"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-mnin-intouma",
+          "type": "phrase",
+          "es": "¿De dónde sois?",
+          "tn": "Mnin intouma",
+          "ar": "منين إنتوما",
+          "tokens": [
+            "Mnin",
+            "intouma"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-ena-mouch-mn-tounes",
+          "type": "sentence",
+          "es": "No soy de Túnez",
+          "tn": "Ena mouch mn Tounes",
+          "ar": "أنا موش من تونس",
+          "note": "«mouch» antes de la preposición.",
+          "tokens": [
+            "Ena",
+            "mouch",
+            "mn",
+            "Tounes"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l02-ena-hna",
+          "type": "phrase",
+          "es": "Estoy aquí",
+          "tn": "Ena hna",
+          "ar": "أنا هنا",
+          "pron": "e-na h-na",
+          "note": "«hna» = aquí.",
+          "tokens": [
+            "Ena",
+            "hna"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Mnin inti?",
+          "es": "¿De dónde eres?"
+        },
+        {
+          "role": "B",
+          "tn": "Ena mn Espanya. W inta?",
+          "es": "Soy de España. ¿Y tú?"
+        },
+        {
+          "role": "A",
+          "tn": "Ena mn Tounes.",
+          "es": "Soy de Túnez."
+        }
+      ]
+    },
+    {
+      "id": "u03-l03",
+      "title": "Tener y no tener",
+      "kind": "normal",
+      "grammar": {
+        "title": "3andi, famma",
+        "text_es": "«3andi» (tengo), «3andek» (tienes), «3andou» (tiene él), «3andha» (tiene ella), «3andna» (tenemos). Negación: «ma 3andich». «Famma» = hay; «ma famech» = no hay. (En Egipto se dice «mafish»; en Túnez, «ma famech».)"
+      },
+      "items": [
+        {
+          "id": "u03-l03-3andi",
+          "type": "word",
+          "es": "tengo",
+          "tn": "3andi",
+          "ar": "عندي",
+          "pron": "3an-di, con la 3 profunda al principio",
+          "note": "Literalmente «junto a mí».",
+          "review": false
+        },
+        {
+          "id": "u03-l03-3andek",
+          "type": "word",
+          "es": "tienes",
+          "tn": "3andek",
+          "ar": "عندك",
+          "pron": "3an-dek",
+          "note": "Vale para hombre y mujer.",
+          "review": false
+        },
+        {
+          "id": "u03-l03-3andou",
+          "type": "word",
+          "es": "tiene (él)",
+          "tn": "3andou",
+          "ar": "عنده",
+          "pron": "3an-du",
+          "review": false
+        },
+        {
+          "id": "u03-l03-3andha",
+          "type": "word",
+          "es": "tiene (ella)",
+          "tn": "3andha",
+          "ar": "عندها",
+          "pron": "3an-ha",
+          "review": false
+        },
+        {
+          "id": "u03-l03-3andna",
+          "type": "word",
+          "es": "tenemos",
+          "tn": "3andna",
+          "ar": "عندنا",
+          "pron": "3an-na",
+          "review": false
+        },
+        {
+          "id": "u03-l03-ma-3andich",
+          "type": "phrase",
+          "es": "no tengo",
+          "tn": "Ma 3andich",
+          "ar": "ما عنديش",
+          "pron": "ma 3an-dich",
+          "note": "Negación con «ma … ch».",
+          "tokens": [
+            "Ma",
+            "3andich"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l03-famma",
+          "type": "word",
+          "es": "hay",
+          "tn": "Famma",
+          "ar": "فمّا",
+          "pron": "fa-ma, con la «m» alargada",
+          "note": "En Túnez se usa para «hay».",
+          "review": false
+        },
+        {
+          "id": "u03-l03-ma-famech",
+          "type": "phrase",
+          "es": "no hay",
+          "tn": "Ma famech",
+          "ar": "ما فمّاش",
+          "pron": "ma fa-mach",
+          "note": "La negación de «famma».",
+          "tokens": [
+            "Ma",
+            "famech"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l03-famma-barcha",
+          "type": "phrase",
+          "es": "hay mucho",
+          "tn": "Famma barcha",
+          "ar": "فمّا برشا",
+          "tokens": [
+            "Famma",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l03-3andi-flous",
+          "type": "phrase",
+          "es": "tengo dinero",
+          "tn": "3andi flous",
+          "ar": "عندي فلوس",
+          "tokens": [
+            "3andi",
+            "flous"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l03-ma-3andich-flous",
+          "type": "phrase",
+          "es": "no tengo dinero",
+          "tn": "Ma 3andich flous",
+          "ar": "ما عنديش فلوس",
+          "tokens": [
+            "Ma",
+            "3andich",
+            "flous"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u03-l04",
+      "title": "Me y te",
+      "kind": "normal",
+      "grammar": {
+        "title": "Pronombres pegados al verbo",
+        "text_es": "Los pronombres objeto se pegan al verbo: «-ni» (me), «-ek» (te): «nchoufek» (te veo), «fhemni» (entiéndeme). Los verbos aparecen aquí como bloques para que los uses; la conjugación completa llega en la unidad 9."
+      },
+      "items": [
+        {
+          "id": "u03-l04-nchoufek",
+          "type": "word",
+          "es": "te veo",
+          "tn": "Nchoufek",
+          "ar": "نشوفك",
+          "pron": "nchou-fek",
+          "note": "El «-ek» es «te».",
+          "review": false
+        },
+        {
+          "id": "u03-l04-nhebbek",
+          "type": "word",
+          "es": "te quiero",
+          "tn": "Nhebbek",
+          "ar": "نحبّك",
+          "pron": "n-heb-bek",
+          "review": false
+        },
+        {
+          "id": "u03-l04-3awenni",
+          "type": "word",
+          "es": "ayúdame",
+          "tn": "3awenni",
+          "ar": "عاوني",
+          "pron": "3a-wen-ni",
+          "note": "Forma de imperativo; revisar la grafía con un hablante nativo.",
+          "review": true
+        },
+        {
+          "id": "u03-l04-fhemni",
+          "type": "word",
+          "es": "entiéndeme",
+          "tn": "Fhemni",
+          "ar": "فهمني",
+          "pron": "fhem-ni",
+          "review": false
+        },
+        {
+          "id": "u03-l04-ma-tefhemnich",
+          "type": "phrase",
+          "es": "no me entiendes",
+          "tn": "Ma tefhemnich",
+          "ar": "ما تفهمنيش",
+          "note": "«ma … ch» envuelve el verbo.",
+          "tokens": [
+            "Ma",
+            "tefhemnich"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l04-ma-nefhemkch",
+          "type": "phrase",
+          "es": "no te entiendo",
+          "tn": "Ma nefhemkch",
+          "ar": "ما نفهمكش",
+          "tokens": [
+            "Ma",
+            "nefhemkch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l04-khallini",
+          "type": "word",
+          "es": "déjame",
+          "tn": "Khallini",
+          "ar": "خلّيني",
+          "pron": "kha-lli-ni",
+          "alt": [
+            "5allini"
+          ],
+          "review": false
+        },
+        {
+          "id": "u03-l04-smahni",
+          "type": "word",
+          "es": "perdóname",
+          "tn": "Smahni",
+          "ar": "سامحني",
+          "pron": "sa-mah-ni",
+          "alt": [
+            "samahni"
+          ],
+          "note": "Revisar con un hablante nativo la forma coloquial exacta.",
+          "review": true
+        }
+      ]
+    }
+  ],
+  "id": "u03",
+  "title": "Yo, tú, nosotros: quién eres y qué tienes",
+  "can_do": "Puedes hablar de ti, de tu lugar y de lo que tienes.",
+  "color": "#0f7b8a",
+  "icon": "person"
+}

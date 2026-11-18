@@ -1,0 +1,424 @@
+{
+  "lessons": [
+    {
+      "id": "u02-l01",
+      "title": "Los números del 1 al 8",
+      "kind": "normal",
+      "grammar": {
+        "title": "Contar",
+        "text_es": "Los números del 1 al 8: wa7ed, zouz, tlata, arb3a, khamsa, setta, sab3a, thmenya. El 2 («zouz») es muy tunecino; en árabe estándar sería «ithnayn». Las cifras se dicen delante del nombre: «tlata dinar»."
+      },
+      "items": [
+        {
+          "id": "u02-l01-wa7ed",
+          "type": "word",
+          "es": "uno",
+          "tn": "wa7ed",
+          "ar": "واحد",
+          "pron": "wa-hed, con la 7 aspirada",
+          "alt": [
+            "wahed"
+          ],
+          "review": false
+        },
+        {
+          "id": "u02-l01-zouz",
+          "type": "word",
+          "es": "dos",
+          "tn": "zouz",
+          "ar": "زوز",
+          "pron": "zuz, la «ou» como una «u» española",
+          "note": "En Túnez no se dice «ithnin»; ese es el árabe estándar.",
+          "review": false
+        },
+        {
+          "id": "u02-l01-tlata",
+          "type": "word",
+          "es": "tres",
+          "tn": "tlata",
+          "ar": "ثلاثة",
+          "pron": "tla-ta",
+          "alt": [
+            "thletha",
+            "talata",
+            "thlata"
+          ],
+          "note": "También se escribe «thletha».",
+          "review": false
+        },
+        {
+          "id": "u02-l01-arb3a",
+          "type": "word",
+          "es": "cuatro",
+          "tn": "arb3a",
+          "ar": "أربعة",
+          "pron": "ar-b3a, con la 3 al final",
+          "review": false
+        },
+        {
+          "id": "u02-l01-khamsa",
+          "type": "word",
+          "es": "cinco",
+          "tn": "khamsa",
+          "ar": "خمسة",
+          "pron": "kham-sa",
+          "alt": [
+            "5amsa"
+          ],
+          "note": "«kh» raspada.",
+          "review": false
+        },
+        {
+          "id": "u02-l01-setta",
+          "type": "word",
+          "es": "seis",
+          "tn": "setta",
+          "ar": "ستة",
+          "pron": "set-ta",
+          "review": false
+        },
+        {
+          "id": "u02-l01-sab3a",
+          "type": "word",
+          "es": "siete",
+          "tn": "sab3a",
+          "ar": "سبعة",
+          "pron": "sa-b3a",
+          "review": false
+        },
+        {
+          "id": "u02-l01-thmenya",
+          "type": "word",
+          "es": "ocho",
+          "tn": "thmenya",
+          "ar": "ثمانية",
+          "pron": "thme-nya",
+          "alt": [
+            "tmanya"
+          ],
+          "note": "A veces se oye «tmanya».",
+          "review": false
+        },
+        {
+          "id": "u02-l01-khamsa-w-setta",
+          "type": "phrase",
+          "es": "cinco y seis",
+          "tn": "Khamsa w setta",
+          "ar": "خمسة وستة",
+          "note": "Se usa «w» (y) para unir.",
+          "tokens": [
+            "Khamsa",
+            "w",
+            "setta"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u02-l02",
+      "title": "Del 9 al 100 y más",
+      "kind": "normal",
+      "grammar": {
+        "title": "Decenas, cien, mil",
+        "text_es": "9–10: tes3a, 3achra. De 11 a 19 se añade -ach: ta7dech, tnach... Las decenas terminan en -in: 3chrin (20), tlathin (30), arb3in (40), khamsin (50). «Mya» es 100 y «alf» es 1000."
+      },
+      "items": [
+        {
+          "id": "u02-l02-tes3a",
+          "type": "word",
+          "es": "nueve",
+          "tn": "tes3a",
+          "ar": "تسعة",
+          "pron": "tes-3a",
+          "review": false
+        },
+        {
+          "id": "u02-l02-3achra",
+          "type": "word",
+          "es": "diez",
+          "tn": "3achra",
+          "ar": "عشرة",
+          "pron": "3ach-ra, la 3 de garganta al principio",
+          "review": false
+        },
+        {
+          "id": "u02-l02-ta7dech",
+          "type": "word",
+          "es": "once",
+          "tn": "ta7dech",
+          "ar": "حداش",
+          "pron": "ta-h-dech",
+          "alt": [
+            "tahdech"
+          ],
+          "note": "Los números de 11 a 19 terminan en «-ach/-ech».",
+          "review": true
+        },
+        {
+          "id": "u02-l02-tnach",
+          "type": "word",
+          "es": "doce",
+          "tn": "tnach",
+          "ar": "طناش",
+          "pron": "tnach",
+          "note": "Forma de 11 a 19: raíz + «-ach»; revisar con un hablante nativo.",
+          "review": true
+        },
+        {
+          "id": "u02-l02-3chrin",
+          "type": "word",
+          "es": "veinte",
+          "tn": "3chrin",
+          "ar": "عشرين",
+          "pron": "3ch-rin",
+          "note": "Las decenas terminan en «-in».",
+          "review": false
+        },
+        {
+          "id": "u02-l02-tlathin",
+          "type": "word",
+          "es": "treinta",
+          "tn": "tlathin",
+          "ar": "ثلاثين",
+          "pron": "tla-thin",
+          "review": false
+        },
+        {
+          "id": "u02-l02-arb3in",
+          "type": "word",
+          "es": "cuarenta",
+          "tn": "arb3in",
+          "ar": "أربعين",
+          "pron": "ar-b3in",
+          "review": false
+        },
+        {
+          "id": "u02-l02-khamsin",
+          "type": "word",
+          "es": "cincuenta",
+          "tn": "khamsin",
+          "ar": "خمسين",
+          "pron": "kham-sin",
+          "review": false
+        },
+        {
+          "id": "u02-l02-mya",
+          "type": "word",
+          "es": "cien",
+          "tn": "mya",
+          "ar": "مية",
+          "pron": "mi-ya",
+          "review": false
+        },
+        {
+          "id": "u02-l02-alf",
+          "type": "word",
+          "es": "mil",
+          "tn": "alf",
+          "ar": "ألف",
+          "pron": "alf",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u02-l03",
+      "title": "Dinares y precios",
+      "kind": "normal",
+      "grammar": {
+        "title": "El dinar y las preguntas de precio",
+        "text_es": "La moneda es el dinar tunecino (dinar), dividido en 1000 millimes (millim). Para preguntar el precio: «9addech?». «Rkhis» es barato y «ghali» es caro. «Nos» es medio: «setta dinar w nos» = seis dinares y medio."
+      },
+      "items": [
+        {
+          "id": "u02-l03-dinar",
+          "type": "word",
+          "es": "dinar",
+          "tn": "dinar",
+          "ar": "دينار",
+          "pron": "di-nar",
+          "note": "Moneda de Túnez. Plural: «dnanir», pero tras un número se dice «dinar».",
+          "review": false
+        },
+        {
+          "id": "u02-l03-millim",
+          "type": "word",
+          "es": "milésimo de dinar",
+          "tn": "millim",
+          "ar": "مليم",
+          "pron": "mi-lim",
+          "alt": [
+            "mlim"
+          ],
+          "note": "Un dinar son 1000 millim. Se oye «mlim».",
+          "review": false
+        },
+        {
+          "id": "u02-l03-9addech",
+          "type": "word",
+          "es": "¿cuánto?",
+          "tn": "9addech",
+          "ar": "قدّاش",
+          "pron": "«9» profunda + «a-ddech»",
+          "alt": [
+            "qaddech",
+            "9adech"
+          ],
+          "note": "Para el precio y la cantidad.",
+          "review": false
+        },
+        {
+          "id": "u02-l03-9addech-el-kilo",
+          "type": "phrase",
+          "es": "¿Cuánto es el kilo?",
+          "tn": "9addech el-kilo",
+          "ar": "قدّاش الكيلو",
+          "alt": [
+            "9adech el kilo"
+          ],
+          "note": "«kilo» es préstamo del francés.",
+          "tokens": [
+            "9addech",
+            "el-kilo"
+          ],
+          "review": false
+        },
+        {
+          "id": "u02-l03-rkhis",
+          "type": "word",
+          "es": "barato",
+          "tn": "rkhis",
+          "ar": "رخيص",
+          "pron": "r-khis, con «kh» raspada",
+          "alt": [
+            "r5is"
+          ],
+          "review": false
+        },
+        {
+          "id": "u02-l03-ghali",
+          "type": "word",
+          "es": "caro",
+          "tn": "ghali",
+          "ar": "غالي",
+          "pron": "gh gutural + «a-li»",
+          "alt": [
+            "8ali"
+          ],
+          "note": "Lo contrario de «rkhis».",
+          "review": false
+        },
+        {
+          "id": "u02-l03-ghali-barcha",
+          "type": "phrase",
+          "es": "muy caro",
+          "tn": "ghali barcha",
+          "ar": "غالي برشا",
+          "alt": [
+            "8ali barcha"
+          ],
+          "note": "«barcha» detrás refuerza.",
+          "tokens": [
+            "ghali",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u02-l03-mouch-ghali",
+          "type": "phrase",
+          "es": "no es caro",
+          "tn": "mouch ghali",
+          "ar": "موش غالي",
+          "alt": [
+            "mush ghali"
+          ],
+          "note": "«mouch» niega adjetivos.",
+          "tokens": [
+            "mouch",
+            "ghali"
+          ],
+          "review": false
+        },
+        {
+          "id": "u02-l03-nos",
+          "type": "word",
+          "es": "medio",
+          "tn": "nos",
+          "ar": "نص",
+          "pron": "nos",
+          "alt": [
+            "noss"
+          ],
+          "note": "«Setta dinar w nos»: seis y medio.",
+          "review": false
+        },
+        {
+          "id": "u02-l03-khamsa-dinar",
+          "type": "phrase",
+          "es": "cinco dinares",
+          "tn": "Khamsa dinar",
+          "ar": "خمسة دينار",
+          "note": "Tras un número, «dinar» no cambia.",
+          "tokens": [
+            "Khamsa",
+            "dinar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u02-l03-flous",
+          "type": "word",
+          "es": "dinero",
+          "tn": "flous",
+          "ar": "فلوس",
+          "pron": "flus",
+          "note": "Es el «dinero» en general.",
+          "review": false
+        },
+        {
+          "id": "u02-l03-hak",
+          "type": "word",
+          "es": "toma",
+          "tn": "hak",
+          "ar": "هاك",
+          "pron": "hak",
+          "note": "Al dar algo: «hak!», «toma».",
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "9addech el-kilo?",
+          "es": "¿Cuánto es el kilo?",
+          "ar": "قدّاش الكيلو"
+        },
+        {
+          "role": "B",
+          "tn": "Khamsa dinar",
+          "es": "Cinco dinares.",
+          "ar": "خمسة دينار"
+        },
+        {
+          "role": "A",
+          "tn": "Ghali barcha!",
+          "es": "¡Muy caro!",
+          "ar": "غالي برشا"
+        },
+        {
+          "role": "B",
+          "tn": "Mouch ghali",
+          "es": "No es caro.",
+          "ar": "موش غالي"
+        }
+      ]
+    }
+  ],
+  "id": "u02",
+  "title": "Números, dinero y precios",
+  "can_do": "Puedes entender y pagar en un mercado.",
+  "color": "#b4541f",
+  "icon": "coin"
+}

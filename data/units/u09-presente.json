@@ -1,0 +1,486 @@
+{
+  "lessons": [
+    {
+      "id": "u09-l01",
+      "title": "Verbos básicos",
+      "kind": "normal",
+      "grammar": {
+        "title": "Yo como, yo voy",
+        "text_es": "El presente tunecino empieza por un prefijo que indica la persona: «n-» (yo), «t-» (tú), «y-» (él), «t-» (ella). Aquí aprendes la forma de «yo» de diez verbos útiles: nekel, nechrab, nemchi, nji, nekhdem, nqra, nra9ed, nehdher, na3ref, nsakken."
+      },
+      "items": [
+        {
+          "id": "u09-l01-nekel",
+          "type": "word",
+          "es": "como",
+          "tn": "nekel",
+          "ar": "نأكل",
+          "pron": "ne-kel",
+          "alt": [
+            "naakel"
+          ],
+          "note": "Se oye también «naakel».",
+          "review": false
+        },
+        {
+          "id": "u09-l01-nechrab",
+          "type": "word",
+          "es": "bebo",
+          "tn": "nechrab",
+          "ar": "نشرب",
+          "pron": "nech-rab",
+          "review": false
+        },
+        {
+          "id": "u09-l01-nemchi",
+          "type": "word",
+          "es": "voy / me voy",
+          "tn": "nemchi",
+          "ar": "نمشي",
+          "pron": "nem-chi",
+          "alt": [
+            "nemshi"
+          ],
+          "note": "«ch» como la sh de «shoe».",
+          "review": false
+        },
+        {
+          "id": "u09-l01-nji",
+          "type": "word",
+          "es": "vengo",
+          "tn": "nji",
+          "ar": "نجي",
+          "pron": "n-ji",
+          "review": false
+        },
+        {
+          "id": "u09-l01-nekhdem",
+          "type": "word",
+          "es": "trabajo",
+          "tn": "nekhdem",
+          "ar": "نخدم",
+          "pron": "nekh-dem",
+          "alt": [
+            "nkhdem",
+            "n5dem"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l01-nqra",
+          "type": "word",
+          "es": "estudio / leo",
+          "tn": "nqra",
+          "ar": "نقرا",
+          "pron": "n-qra",
+          "alt": [
+            "n9ra"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l01-nra9ed",
+          "type": "word",
+          "es": "duermo",
+          "tn": "nra9ed",
+          "ar": "نرقد",
+          "pron": "nra-ged",
+          "note": "Se oye también «nrgued».",
+          "review": true
+        },
+        {
+          "id": "u09-l01-nehdher",
+          "type": "word",
+          "es": "hablo",
+          "tn": "nehdher",
+          "ar": "نهدر",
+          "pron": "neh-dher",
+          "alt": [
+            "nhadher"
+          ],
+          "note": "Se oye también «nhadher».",
+          "review": false
+        },
+        {
+          "id": "u09-l01-na3ref",
+          "type": "word",
+          "es": "sé / conozco",
+          "tn": "na3ref",
+          "ar": "نعرف",
+          "pron": "na3-ref",
+          "review": false
+        },
+        {
+          "id": "u09-l01-nsakken",
+          "type": "word",
+          "es": "vivo (resido)",
+          "tn": "nsakken",
+          "ar": "نسكن",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u09-l02",
+      "title": "Yo, tú, él, ella, nosotros",
+      "kind": "normal",
+      "grammar": {
+        "title": "Las personas del presente",
+        "text_es": "Con «nemchi»: nemchi (yo), temchi (tú), yemchi (él), temchi (ella), nemchiw (nosotros), temchiw (vosotros), yemchiw (ellos). El prefijo cambia y, para el plural, se añade «-w»."
+      },
+      "items": [
+        {
+          "id": "u09-l02-ena-nemchi",
+          "type": "phrase",
+          "es": "yo voy",
+          "tn": "Ena nemchi",
+          "ar": "أنا نمشي",
+          "pron": "e-na nem-chi, «ch» como sh inglesa",
+          "tokens": [
+            "Ena",
+            "nemchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-inta-temchi",
+          "type": "phrase",
+          "es": "tú vas",
+          "tn": "Inta temchi",
+          "ar": "إنتا تمشي",
+          "alt": [
+            "inta temshi"
+          ],
+          "tokens": [
+            "Inta",
+            "temchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-howa-yemchi",
+          "type": "phrase",
+          "es": "él va",
+          "tn": "Howa yemchi",
+          "ar": "هو يمشي",
+          "tokens": [
+            "Howa",
+            "yemchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-hiya-temchi",
+          "type": "phrase",
+          "es": "ella va",
+          "tn": "Hiya temchi",
+          "ar": "هي تمشي",
+          "tokens": [
+            "Hiya",
+            "temchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-a7na-nemchiw",
+          "type": "phrase",
+          "es": "nosotros vamos",
+          "tn": "A7na nemchiw",
+          "ar": "احنا نمشيو",
+          "alt": [
+            "ahna nemchiw"
+          ],
+          "tokens": [
+            "A7na",
+            "nemchiw"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-intouma-temchiw",
+          "type": "phrase",
+          "es": "vosotros vais",
+          "tn": "Intouma temchiw",
+          "ar": "إنتوما تمشيو",
+          "tokens": [
+            "Intouma",
+            "temchiw"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-houma-yemchiw",
+          "type": "phrase",
+          "es": "ellos van",
+          "tn": "Houma yemchiw",
+          "ar": "هوما يمشيو",
+          "tokens": [
+            "Houma",
+            "yemchiw"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-win-temchi",
+          "type": "phrase",
+          "es": "¿adónde vas?",
+          "tn": "Win temchi",
+          "ar": "وين تمشي",
+          "tokens": [
+            "Win",
+            "temchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l02-ena-nekhdem-fi-tounes",
+          "type": "sentence",
+          "es": "yo trabajo en Túnez",
+          "tn": "Ena nekhdem fi Tounes",
+          "ar": "أنا نخدم في تونس",
+          "tokens": [
+            "Ena",
+            "nekhdem",
+            "fi",
+            "Tounes"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u09-l03",
+      "title": "No y rutina",
+      "kind": "normal",
+      "grammar": {
+        "title": "Negación y comidas",
+        "text_es": "La negación del presente: «ma … ch»: «ma nekelch» (no como). Las comidas: «el-ftour» (desayuno), «el-ghda» (almuerzo), «el-3cha» (cena). «Bkri» = temprano."
+      },
+      "items": [
+        {
+          "id": "u09-l03-ma-nekelch",
+          "type": "phrase",
+          "es": "no como",
+          "tn": "Ma nekelch",
+          "ar": "ما نأكلش",
+          "pron": "ma ne-kelch, termina en «ch» como sh",
+          "tokens": [
+            "Ma",
+            "nekelch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l03-ma-nemchich",
+          "type": "phrase",
+          "es": "no voy",
+          "tn": "Ma nemchich",
+          "ar": "ما نمشيش",
+          "tokens": [
+            "Ma",
+            "nemchich"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l03-ma-nekhdemch",
+          "type": "phrase",
+          "es": "no trabajo",
+          "tn": "Ma nekhdemch",
+          "ar": "ما نخدمش",
+          "tokens": [
+            "Ma",
+            "nekhdemch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l03-nekel-el-ftour",
+          "type": "phrase",
+          "es": "desayuno",
+          "tn": "Nekel el-ftour",
+          "ar": "نأكل الفطور",
+          "tokens": [
+            "Nekel",
+            "el-ftour"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l03-nekel-el-ghda",
+          "type": "phrase",
+          "es": "almuerzo",
+          "tn": "Nekel el-ghda",
+          "ar": "نأكل الغدا",
+          "tokens": [
+            "Nekel",
+            "el-ghda"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l03-nekel-el-3cha",
+          "type": "phrase",
+          "es": "ceno",
+          "tn": "Nekel el-3cha",
+          "ar": "نأكل العشا",
+          "tokens": [
+            "Nekel",
+            "el-3cha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l03-nawedh-bkri",
+          "type": "phrase",
+          "es": "me levanto temprano",
+          "tn": "Nawedh bkri",
+          "ar": "نوض بكري",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Nawedh",
+            "bkri"
+          ],
+          "review": true
+        },
+        {
+          "id": "u09-l03-nra9ed-bkri",
+          "type": "phrase",
+          "es": "duermo temprano",
+          "tn": "Nra9ed bkri",
+          "ar": "نرقد بكري",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Nra9ed",
+            "bkri"
+          ],
+          "review": true
+        }
+      ]
+    },
+    {
+      "id": "u09-l04",
+      "title": "Mi día a día",
+      "kind": "normal",
+      "grammar": {
+        "title": "Rutina",
+        "text_es": "«Kol nhar» (cada día) y «dima» (siempre) sitúan la acción. «Lel-khedma» (al trabajo), «lel-dar» (a casa). Verbos nuevos: «nchouf» (veo/miro), «nsma3» (escucho)."
+      },
+      "items": [
+        {
+          "id": "u09-l04-kol-nhar",
+          "type": "phrase",
+          "es": "cada día",
+          "tn": "Kol nhar",
+          "ar": "كل نهار",
+          "tokens": [
+            "Kol",
+            "nhar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l04-dima",
+          "type": "word",
+          "es": "siempre",
+          "tn": "Dima",
+          "ar": "ديما",
+          "pron": "di-ma",
+          "review": false
+        },
+        {
+          "id": "u09-l04-nemchi-lel-khedma",
+          "type": "phrase",
+          "es": "voy al trabajo",
+          "tn": "Nemchi lel-khedma",
+          "ar": "نمشي للخدمة",
+          "note": "«khedma» = trabajo.",
+          "tokens": [
+            "Nemchi",
+            "lel-khedma"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l04-nerj3a-lel-dar",
+          "type": "phrase",
+          "es": "vuelvo a casa",
+          "tn": "Nerj3a lel-dar",
+          "ar": "نرجع للدار",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Nerj3a",
+            "lel-dar"
+          ],
+          "review": true
+        },
+        {
+          "id": "u09-l04-nchouf",
+          "type": "word",
+          "es": "veo / miro",
+          "tn": "Nchouf",
+          "ar": "نشوف",
+          "review": false
+        },
+        {
+          "id": "u09-l04-nsma3",
+          "type": "word",
+          "es": "escucho",
+          "tn": "Nsma3",
+          "ar": "نسمع",
+          "review": false
+        },
+        {
+          "id": "u09-l04-nechrab-chay-kol-nhar",
+          "type": "sentence",
+          "es": "bebo té cada día",
+          "tn": "Nechrab chay kol nhar",
+          "ar": "نشرب شاي كل نهار",
+          "tokens": [
+            "Nechrab",
+            "chay",
+            "kol",
+            "nhar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u09-l04-nekhdem-dima",
+          "type": "phrase",
+          "es": "trabajo siempre",
+          "tn": "Nekhdem dima",
+          "ar": "نخدم ديما",
+          "tokens": [
+            "Nekhdem",
+            "dima"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Win temchi?",
+          "es": "¿Adónde vas?",
+          "ar": "وين تمشي"
+        },
+        {
+          "role": "B",
+          "tn": "Nemchi lel-khedma",
+          "es": "Voy al trabajo.",
+          "ar": "نمشي للخدمة"
+        },
+        {
+          "role": "A",
+          "tn": "Behi, nchoufek ghodwa",
+          "es": "Vale, te veo mañana."
+        }
+      ]
+    }
+  ],
+  "id": "u09",
+  "title": "El presente: hacer lo que haces todos los días",
+  "can_do": "Puedes describir tu rutina diaria.",
+  "color": "#a34a28",
+  "icon": "repeat"
+}

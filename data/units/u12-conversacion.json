@@ -1,0 +1,532 @@
+{
+  "lessons": [
+    {
+      "id": "u12-l01",
+      "title": "Futuro: planes",
+      "kind": "normal",
+      "grammar": {
+        "title": "bech + presente",
+        "text_es": "El futuro se hace con «bech» (voy a) + presente: «bech nemchi» (voy a ir), «bech nekel» (voy a comer). Negación: «mouch bech nemchi»."
+      },
+      "items": [
+        {
+          "id": "u12-l01-bech-nemchi",
+          "type": "phrase",
+          "es": "voy a ir",
+          "tn": "Bech nemchi",
+          "ar": "باش نمشي",
+          "pron": "besh nem-chi, la «ch» como sh inglesa",
+          "tokens": [
+            "Bech",
+            "nemchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l01-bech-nekel",
+          "type": "phrase",
+          "es": "voy a comer",
+          "tn": "Bech nekel",
+          "ar": "باش نأكل",
+          "tokens": [
+            "Bech",
+            "nekel"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l01-bech-nekhdem",
+          "type": "phrase",
+          "es": "voy a trabajar",
+          "tn": "Bech nekhdem",
+          "ar": "باش نخدم",
+          "tokens": [
+            "Bech",
+            "nekhdem"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l01-bech-nchouf-khouya",
+          "type": "phrase",
+          "es": "voy a ver a mi hermano",
+          "tn": "Bech nchouf khouya",
+          "ar": "باش نشوف خويا",
+          "tokens": [
+            "Bech",
+            "nchouf",
+            "khouya"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l01-bech-nemchi-l-sousse",
+          "type": "phrase",
+          "es": "voy a ir a Sousse",
+          "tn": "Bech nemchi l-Sousse",
+          "ar": "باش نمشي لسوسة",
+          "tokens": [
+            "Bech",
+            "nemchi",
+            "l-Sousse"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l01-chnowa-bech-ta3mel-ghodwa",
+          "type": "sentence",
+          "es": "¿qué vas a hacer mañana?",
+          "tn": "Chnowa bech ta3mel ghodwa",
+          "ar": "شنوة باش تعمل غدوة",
+          "tokens": [
+            "Chnowa",
+            "bech",
+            "ta3mel",
+            "ghodwa"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l01-bech-nra9ed-bkri",
+          "type": "phrase",
+          "es": "voy a dormir temprano",
+          "tn": "Bech nra9ed bkri",
+          "ar": "باش نرقد بكري",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Bech",
+            "nra9ed",
+            "bkri"
+          ],
+          "review": true
+        },
+        {
+          "id": "u12-l01-mouch-bech-nemchi",
+          "type": "phrase",
+          "es": "no voy a ir",
+          "tn": "Mouch bech nemchi",
+          "ar": "موش باش نمشي",
+          "tokens": [
+            "Mouch",
+            "bech",
+            "nemchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l01-bech-nji-m3ak",
+          "type": "phrase",
+          "es": "voy a ir contigo",
+          "tn": "Bech nji m3ak",
+          "ar": "باش نجي معاك",
+          "note": "«m3ak» = contigo.",
+          "tokens": [
+            "Bech",
+            "nji",
+            "m3ak"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Chnowa bech ta3mel ghodwa?",
+          "es": "¿Qué vas a hacer mañana?",
+          "ar": "شنوة باش تعمل غدوة"
+        },
+        {
+          "role": "B",
+          "tn": "Bech nemchi l-Sousse",
+          "es": "Voy a ir a Sousse.",
+          "ar": "باش نمشي لسوسة"
+        },
+        {
+          "role": "A",
+          "tn": "Behi, nchoufek ba3d",
+          "es": "Vale, hasta luego."
+        }
+      ]
+    },
+    {
+      "id": "u12-l02",
+      "title": "Por qué y si",
+      "kind": "normal",
+      "grammar": {
+        "title": "3lech, khater, ken",
+        "text_es": "«3lech?» (¿por qué?), «khater» (porque), «ken» (si). «Ken theb» (si quieres), «ken 3andek waqt» (si tienes tiempo)."
+      },
+      "items": [
+        {
+          "id": "u12-l02-ken",
+          "type": "word",
+          "es": "si",
+          "tn": "Ken",
+          "ar": "كان",
+          "pron": "ken",
+          "review": false
+        },
+        {
+          "id": "u12-l02-3lech",
+          "type": "word",
+          "es": "¿por qué?",
+          "tn": "3lech",
+          "ar": "علاش",
+          "pron": "3a-lech",
+          "review": false
+        },
+        {
+          "id": "u12-l02-khater",
+          "type": "word",
+          "es": "porque",
+          "tn": "Khater",
+          "ar": "خاطر",
+          "pron": "kha-ter",
+          "alt": [
+            "5ater"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l02-ken-theb",
+          "type": "phrase",
+          "es": "si quieres",
+          "tn": "Ken theb",
+          "ar": "كان تحب",
+          "tokens": [
+            "Ken",
+            "theb"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l02-ken-3andek-waqt",
+          "type": "phrase",
+          "es": "si tienes tiempo",
+          "tn": "Ken 3andek waqt",
+          "ar": "كان عندك وقت",
+          "tokens": [
+            "Ken",
+            "3andek",
+            "waqt"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l02-3lech-mchit",
+          "type": "phrase",
+          "es": "¿por qué fuiste?",
+          "tn": "3lech mchit",
+          "ar": "علاش مشيت",
+          "tokens": [
+            "3lech",
+            "mchit"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l02-khater-ena-ta3ban",
+          "type": "phrase",
+          "es": "porque estoy cansado",
+          "tn": "Khater ena ta3ban",
+          "ar": "خاطر أنا تعبان",
+          "tokens": [
+            "Khater",
+            "ena",
+            "ta3ban"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l02-khater-3andi-chghol",
+          "type": "phrase",
+          "es": "porque tengo trabajo",
+          "tn": "Khater 3andi chghol",
+          "ar": "خاطر عندي شغل",
+          "tokens": [
+            "Khater",
+            "3andi",
+            "chghol"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l02-3lech-ma-jitch",
+          "type": "phrase",
+          "es": "¿por qué no viniste?",
+          "tn": "3lech ma jitch",
+          "ar": "علاش ما جيتش",
+          "tokens": [
+            "3lech",
+            "ma",
+            "jitch"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u12-l03",
+      "title": "Opiniones y comprensión",
+      "kind": "normal",
+      "grammar": {
+        "title": "Me gusta, ¿entendiste?",
+        "text_es": "«3jebni» (me gusta/me encanta), «ma 3jebnich» (no me gusta). «Zin» es bonito. «Fehemt?» (¿entendiste?). «Ah wallah» (¡sí, en serio!)."
+      },
+      "items": [
+        {
+          "id": "u12-l03-3jebni",
+          "type": "word",
+          "es": "me gusta",
+          "tn": "3jebni",
+          "ar": "عجبني",
+          "pron": "3jeb-ni",
+          "review": false
+        },
+        {
+          "id": "u12-l03-ma-3jebnich",
+          "type": "phrase",
+          "es": "no me gusta",
+          "tn": "Ma 3jebnich",
+          "ar": "ما عجبنيش",
+          "tokens": [
+            "Ma",
+            "3jebnich"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l03-3jebni-el-kseksi",
+          "type": "phrase",
+          "es": "me gusta el cuscús",
+          "tn": "3jebni el-kseksi",
+          "ar": "عجبني الكسكسي",
+          "tokens": [
+            "3jebni",
+            "el-kseksi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l03-zin",
+          "type": "word",
+          "es": "bonito",
+          "tn": "Zin",
+          "ar": "زين",
+          "pron": "zin",
+          "review": false
+        },
+        {
+          "id": "u12-l03-zin-barcha",
+          "type": "phrase",
+          "es": "muy bonito",
+          "tn": "Zin barcha",
+          "ar": "زين برشا",
+          "tokens": [
+            "Zin",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l03-chnowa-rayek",
+          "type": "phrase",
+          "es": "¿qué opinas?",
+          "tn": "Chnowa rayek",
+          "ar": "شنوة رأيك",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Chnowa",
+            "rayek"
+          ],
+          "review": true
+        },
+        {
+          "id": "u12-l03-ah-wallah",
+          "type": "phrase",
+          "es": "¡sí, en serio!",
+          "tn": "Ah wallah",
+          "ar": "آه والله",
+          "tokens": [
+            "Ah",
+            "wallah"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l03-wallah",
+          "type": "word",
+          "es": "de verdad / lo juro",
+          "tn": "Wallah",
+          "ar": "والله",
+          "review": false
+        },
+        {
+          "id": "u12-l03-fehemt",
+          "type": "word",
+          "es": "¿entendiste?",
+          "tn": "Fehemt",
+          "ar": "فهمت",
+          "review": false
+        },
+        {
+          "id": "u12-l03-ma-fhemtch",
+          "type": "phrase",
+          "es": "no entendí",
+          "tn": "Ma fhemtch",
+          "ar": "ما فهمتش",
+          "tokens": [
+            "Ma",
+            "fhemtch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l03-hedha-3jebni-barcha",
+          "type": "phrase",
+          "es": "esto me gusta mucho",
+          "tn": "Hedha 3jebni barcha",
+          "ar": "هذا عجبني برشا",
+          "tokens": [
+            "Hedha",
+            "3jebni",
+            "barcha"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u12-l04",
+      "title": "Una conversación corta",
+      "kind": "normal",
+      "grammar": {
+        "title": "Repetir, confirmar, despedirse",
+        "text_es": "«Chnowa 9olt?» (¿qué dijiste?). «Ma sme3tch» (no oí). «Inchallah» es «si Dios quiere» y se usa mucho para hablar del futuro."
+      },
+      "items": [
+        {
+          "id": "u12-l04-chnowa-9olt",
+          "type": "phrase",
+          "es": "¿qué dijiste?",
+          "tn": "Chnowa 9olt",
+          "ar": "شنوة قلت",
+          "pron": "ch-no-wa 9olt, con la 9 profunda",
+          "tokens": [
+            "Chnowa",
+            "9olt"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l04-ma-sme3tch",
+          "type": "phrase",
+          "es": "no oí",
+          "tn": "Ma sme3tch",
+          "ar": "ما سمعتش",
+          "tokens": [
+            "Ma",
+            "sme3tch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l04-7ki-b-chwaya",
+          "type": "phrase",
+          "es": "habla despacio",
+          "tn": "7ki b-chwaya",
+          "ar": "احكي بشوية",
+          "alt": [
+            "hki b-chwaya"
+          ],
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "7ki",
+            "b-chwaya"
+          ],
+          "review": true
+        },
+        {
+          "id": "u12-l04-nehdher-tounsi-chwaya",
+          "type": "phrase",
+          "es": "hablo un poco de tunecino",
+          "tn": "Nehdher tounsi chwaya",
+          "ar": "نهدر تونسي شوية",
+          "tokens": [
+            "Nehdher",
+            "tounsi",
+            "chwaya"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l04-inchallah",
+          "type": "word",
+          "es": "si Dios quiere",
+          "tn": "Inchallah",
+          "ar": "إن شاء الله",
+          "note": "Se usa para el futuro; no implica duda.",
+          "review": false
+        },
+        {
+          "id": "u12-l04-nchoufek-ghodwa-inchallah",
+          "type": "phrase",
+          "es": "te veo mañana, si Dios quiere",
+          "tn": "Nchoufek ghodwa inchallah",
+          "ar": "نشوفك غدوة إن شاء الله",
+          "tokens": [
+            "Nchoufek",
+            "ghodwa",
+            "inchallah"
+          ],
+          "review": false
+        },
+        {
+          "id": "u12-l04-mebrouk",
+          "type": "word",
+          "es": "felicidades",
+          "tn": "Mebrouk",
+          "ar": "مبروك",
+          "review": false
+        },
+        {
+          "id": "u12-l04-allah-ybarek",
+          "type": "phrase",
+          "es": "que Dios bendiga",
+          "tn": "Allah ybarek",
+          "ar": "الله يبارك",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Allah",
+            "ybarek"
+          ],
+          "review": true
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Chnowa 9olt?",
+          "es": "¿Qué dijiste?",
+          "ar": "شنوة قلت"
+        },
+        {
+          "role": "B",
+          "tn": "Nchoufek ghodwa inchallah",
+          "es": "Te veo mañana, si Dios quiere.",
+          "ar": "نشوفك غدوة إن شاء الله"
+        },
+        {
+          "role": "A",
+          "tn": "Behi, bslama!",
+          "es": "Vale, ¡adiós!"
+        }
+      ]
+    }
+  ],
+  "id": "u12",
+  "title": "Conversación cotidiana",
+  "can_do": "Puedes mantener una conversación corta sobre planes, comida, trabajo y opiniones.",
+  "color": "#2e4a8f",
+  "icon": "chat"
+}

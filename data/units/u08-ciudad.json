@@ -1,0 +1,523 @@
+{
+  "lessons": [
+    {
+      "id": "u08-l01",
+      "title": "¿Dónde está?",
+      "kind": "normal",
+      "grammar": {
+        "title": "Lugares y distancias",
+        "text_es": "«Win» (dónde), «hna» (aquí), «hnaka» (allí), «9rib» (cerca), «b3id» (lejos). Lugares: «es-souk» (zoco), «el-ma7atta» (estación), «el-pharmacie» (farmacia, del francés)."
+      },
+      "items": [
+        {
+          "id": "u08-l01-win",
+          "type": "word",
+          "es": "¿dónde?",
+          "tn": "win",
+          "ar": "وين",
+          "pron": "win",
+          "review": false
+        },
+        {
+          "id": "u08-l01-hna",
+          "type": "word",
+          "es": "aquí",
+          "tn": "hna",
+          "ar": "هنا",
+          "pron": "h-na",
+          "review": false
+        },
+        {
+          "id": "u08-l01-hnaka",
+          "type": "word",
+          "es": "allí",
+          "tn": "hnaka",
+          "ar": "هناك",
+          "pron": "hna-ka",
+          "review": false
+        },
+        {
+          "id": "u08-l01-9rib",
+          "type": "word",
+          "es": "cerca",
+          "tn": "9rib",
+          "ar": "قريب",
+          "pron": "9rib",
+          "alt": [
+            "qrib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l01-b3id",
+          "type": "word",
+          "es": "lejos",
+          "tn": "b3id",
+          "ar": "بعيد",
+          "pron": "b3id",
+          "review": false
+        },
+        {
+          "id": "u08-l01-win-el-pharmacie",
+          "type": "phrase",
+          "es": "¿Dónde está la farmacia?",
+          "tn": "Win el-pharmacie",
+          "ar": "وين الفارماسي",
+          "note": "«pharmacie» se pronuncia «farmasi».",
+          "tokens": [
+            "Win",
+            "el-pharmacie"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l01-win-es-souk",
+          "type": "phrase",
+          "es": "¿Dónde está el zoco?",
+          "tn": "Win es-souk",
+          "ar": "وين السوق",
+          "tokens": [
+            "Win",
+            "es-souk"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l01-win-el-ma7atta",
+          "type": "phrase",
+          "es": "¿Dónde está la estación?",
+          "tn": "Win el-ma7atta",
+          "ar": "وين المحطة",
+          "alt": [
+            "win el-mahatta"
+          ],
+          "tokens": [
+            "Win",
+            "el-ma7atta"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l01-hedha-9rib",
+          "type": "phrase",
+          "es": "Esto está cerca",
+          "tn": "Hedha 9rib",
+          "ar": "هذا قريب",
+          "tokens": [
+            "Hedha",
+            "9rib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l01-hnaka-b3id",
+          "type": "phrase",
+          "es": "Allí está lejos",
+          "tn": "Hnaka b3id",
+          "ar": "هناك بعيد",
+          "tokens": [
+            "Hnaka",
+            "b3id"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u08-l02",
+      "title": "Izquierda, derecha, recto",
+      "kind": "normal",
+      "grammar": {
+        "title": "Direcciones",
+        "text_es": "«Limin» (derecha), «lisser» (izquierda), «stiqim» (recto, o «dhoghri»). «Imchi» (ve), «dour» (gira), «wa9ef» (para): «Imchi stiqim» (ve recto). Con «ba3d» (después) enlazas pasos."
+      },
+      "items": [
+        {
+          "id": "u08-l02-limin",
+          "type": "word",
+          "es": "derecha",
+          "tn": "limin",
+          "ar": "يمين",
+          "pron": "li-min",
+          "review": false
+        },
+        {
+          "id": "u08-l02-lisser",
+          "type": "word",
+          "es": "izquierda",
+          "tn": "lisser",
+          "ar": "يسار",
+          "pron": "lis-ser",
+          "review": false
+        },
+        {
+          "id": "u08-l02-stiqim",
+          "type": "word",
+          "es": "recto",
+          "tn": "stiqim",
+          "ar": "ستقيم",
+          "pron": "sti-qim",
+          "alt": [
+            "dhoghri"
+          ],
+          "note": "También «dhoghri» (ضغري).",
+          "review": false
+        },
+        {
+          "id": "u08-l02-imchi-limin",
+          "type": "phrase",
+          "es": "ve a la derecha",
+          "tn": "Imchi limin",
+          "ar": "إمشي يمين",
+          "tokens": [
+            "Imchi",
+            "limin"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l02-imchi-lisser",
+          "type": "phrase",
+          "es": "ve a la izquierda",
+          "tn": "Imchi lisser",
+          "ar": "إمشي يسار",
+          "tokens": [
+            "Imchi",
+            "lisser"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l02-imchi-stiqim",
+          "type": "phrase",
+          "es": "ve recto",
+          "tn": "Imchi stiqim",
+          "ar": "إمشي ستقيم",
+          "tokens": [
+            "Imchi",
+            "stiqim"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l02-dour-limin",
+          "type": "phrase",
+          "es": "gira a la derecha",
+          "tn": "Dour limin",
+          "ar": "دور يمين",
+          "tokens": [
+            "Dour",
+            "limin"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l02-dour-lisser",
+          "type": "phrase",
+          "es": "gira a la izquierda",
+          "tn": "Dour lisser",
+          "ar": "دور يسار",
+          "tokens": [
+            "Dour",
+            "lisser"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l02-wa9ef-hna",
+          "type": "phrase",
+          "es": "para aquí",
+          "tn": "Wa9ef hna",
+          "ar": "وقّف هنا",
+          "tokens": [
+            "Wa9ef",
+            "hna"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l02-ba3d",
+          "type": "word",
+          "es": "después",
+          "tn": "ba3d",
+          "ar": "بعد",
+          "pron": "ba3d",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u08-l03",
+      "title": "Transportes",
+      "kind": "normal",
+      "grammar": {
+        "title": "Louage, taxi y metro",
+        "text_es": "El «louage» (lu-áx) es la furgoneta compartida que va entre ciudades. También hay «taxi», «bus», «metro» y «tram» (en Túnez capital). «Billet» (billete) es del francés. Para viajar a un sitio se usa «l-» (a): «l-Sousse»."
+      },
+      "items": [
+        {
+          "id": "u08-l03-louage",
+          "type": "word",
+          "es": "louage (furgoneta compartida)",
+          "tn": "louage",
+          "ar": "لواج",
+          "pron": "lu-aj",
+          "note": "Sale cuando se llena. Es la forma más barata de ir entre ciudades.",
+          "review": false
+        },
+        {
+          "id": "u08-l03-taxi",
+          "type": "word",
+          "es": "taxi",
+          "tn": "taxi",
+          "ar": "تاكسي",
+          "pron": "tak-si",
+          "note": "Insiste en que pongan el taxímetro («compteur»).",
+          "review": false
+        },
+        {
+          "id": "u08-l03-bus",
+          "type": "word",
+          "es": "autobús",
+          "tn": "bus",
+          "ar": "باص",
+          "pron": "bus",
+          "review": false
+        },
+        {
+          "id": "u08-l03-metro",
+          "type": "word",
+          "es": "metro",
+          "tn": "metro",
+          "ar": "مترو",
+          "pron": "met-ro",
+          "note": "En Túnez capital se llama «metro léger».",
+          "review": false
+        },
+        {
+          "id": "u08-l03-tram",
+          "type": "word",
+          "es": "tranvía",
+          "tn": "tram",
+          "ar": "ترام",
+          "review": false
+        },
+        {
+          "id": "u08-l03-billet",
+          "type": "word",
+          "es": "billete",
+          "tn": "billet",
+          "ar": "بيّي",
+          "pron": "bi-yé",
+          "alt": [
+            "bili"
+          ],
+          "note": "Préstamo del francés.",
+          "review": false
+        },
+        {
+          "id": "u08-l03-9addech-el-billet",
+          "type": "phrase",
+          "es": "¿cuánto cuesta el billete?",
+          "tn": "9addech el-billet",
+          "ar": "قدّاش البيّي",
+          "tokens": [
+            "9addech",
+            "el-billet"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l03-nheb-billet-l-sousse",
+          "type": "phrase",
+          "es": "Quiero un billete a Sousse",
+          "tn": "Nheb billet l-Sousse",
+          "ar": "نحب بيّي لسوسة",
+          "note": "«l-» = a.",
+          "tokens": [
+            "Nheb",
+            "billet",
+            "l-Sousse"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l03-louage-l-sfax",
+          "type": "phrase",
+          "es": "louage a Sfax",
+          "tn": "Louage l-Sfax",
+          "ar": "لواج لصفاقس",
+          "tokens": [
+            "Louage",
+            "l-Sfax"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l03-win-el-louage",
+          "type": "phrase",
+          "es": "¿dónde está el louage?",
+          "tn": "Win el-louage",
+          "ar": "وين اللواج",
+          "tokens": [
+            "Win",
+            "el-louage"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u08-l04",
+      "title": "Pedir ayuda y direcciones",
+      "kind": "normal",
+      "grammar": {
+        "title": "Frases útiles",
+        "text_es": "«Sma7li, win el-ma7atta?» (disculpa, ¿dónde está la estación?). «9rib wela b3id?» (¿cerca o lejos?). «Ma na3rafch» (no sé)."
+      },
+      "items": [
+        {
+          "id": "u08-l04-sma7li-win-el-ma7atta",
+          "type": "phrase",
+          "es": "Disculpa, ¿dónde está la estación?",
+          "tn": "Sma7li win el-ma7atta",
+          "ar": "سماحلي وين المحطة",
+          "alt": [
+            "smahli win el-mahatta"
+          ],
+          "tokens": [
+            "Sma7li",
+            "win",
+            "el-ma7atta"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l04-9rib-wela-b3id",
+          "type": "phrase",
+          "es": "¿cerca o lejos?",
+          "tn": "9rib wela b3id",
+          "ar": "قريب ولا بعيد",
+          "note": "«wela» = o.",
+          "tokens": [
+            "9rib",
+            "wela",
+            "b3id"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l04-9rib-barcha",
+          "type": "phrase",
+          "es": "muy cerca",
+          "tn": "9rib barcha",
+          "ar": "قريب برشا",
+          "tokens": [
+            "9rib",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l04-b3id-barcha",
+          "type": "phrase",
+          "es": "muy lejos",
+          "tn": "B3id barcha",
+          "ar": "بعيد برشا",
+          "tokens": [
+            "B3id",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l04-ma-na3rafch",
+          "type": "phrase",
+          "es": "no sé",
+          "tn": "Ma na3rafch",
+          "ar": "ما نعرفش",
+          "pron": "ma na-3a-rafch, con la 3 profunda",
+          "note": "«na3ref» = sé.",
+          "tokens": [
+            "Ma",
+            "na3rafch"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l04-nezzelni-hna",
+          "type": "phrase",
+          "es": "déjame aquí",
+          "tn": "Nezzelni hna",
+          "ar": "نزّلني هنا",
+          "note": "Se lo dices al conductor al bajar.",
+          "tokens": [
+            "Nezzelni",
+            "hna"
+          ],
+          "review": true
+        },
+        {
+          "id": "u08-l04-imchi-stiqim-w-ba3d-dour-limin",
+          "type": "sentence",
+          "es": "ve recto y luego gira a la derecha",
+          "tn": "Imchi stiqim w ba3d dour limin",
+          "ar": "إمشي ستقيم وبعد دور يمين",
+          "tokens": [
+            "Imchi",
+            "stiqim",
+            "w",
+            "ba3d",
+            "dour",
+            "limin"
+          ],
+          "review": false
+        },
+        {
+          "id": "u08-l04-hna-wela-hnaka",
+          "type": "phrase",
+          "es": "¿aquí o allí?",
+          "tn": "Hna wela hnaka",
+          "ar": "هنا ولا هناك",
+          "tokens": [
+            "Hna",
+            "wela",
+            "hnaka"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "Sma7li, win el-ma7atta?",
+          "es": "Disculpa, ¿dónde está la estación?",
+          "ar": "سماحلي وين المحطة"
+        },
+        {
+          "role": "B",
+          "tn": "Imchi stiqim w ba3d dour limin",
+          "es": "Ve recto y luego gira a la derecha.",
+          "ar": "إمشي ستقيم وبعد دور يمين"
+        },
+        {
+          "role": "A",
+          "tn": "9rib wela b3id?",
+          "es": "¿Cerca o lejos?",
+          "ar": "قريب ولا بعيد"
+        },
+        {
+          "role": "B",
+          "tn": "9rib",
+          "es": "Cerca.",
+          "ar": "قريب"
+        }
+      ]
+    }
+  ],
+  "id": "u08",
+  "title": "Ciudad, direcciones y transporte",
+  "can_do": "Puedes preguntar cómo llegar y coger un transporte.",
+  "color": "#15667a",
+  "icon": "map"
+}

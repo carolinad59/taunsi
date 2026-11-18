@@ -1,0 +1,13 @@
+{
+  "name": "taunsi",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Taunsi: aprende árabe tunecino (Derja) con un recorrido por lecciones",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "node --test tests/*.test.mjs",
+    "validate": "node scripts/validate-course.mjs",
+    "audio:missing": "node scripts/list-missing-audio.mjs"
+  }
+}

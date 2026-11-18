@@ -1,0 +1,421 @@
+{
+  "lessons": [
+    {
+      "id": "u05-l01",
+      "title": "Tamaños y calidad",
+      "kind": "normal",
+      "grammar": {
+        "title": "Adjetivos básicos",
+        "text_es": "Los adjetivos van después del nombre y concuerdan: «kbir» (grande), «kbira» (grande, femenino). Lo contrario: «kbir ↔ sghir», «jdid ↔ 9dim», «tawil ↔ 9sir»."
+      },
+      "items": [
+        {
+          "id": "u05-l01-kbir",
+          "type": "word",
+          "es": "grande",
+          "tn": "kbir",
+          "ar": "كبير",
+          "pron": "k-bir",
+          "note": "Femenino: «kbira».",
+          "review": false
+        },
+        {
+          "id": "u05-l01-sghir",
+          "type": "word",
+          "es": "pequeño",
+          "tn": "sghir",
+          "ar": "صغير",
+          "pron": "s-ghir",
+          "alt": [
+            "s8ir"
+          ],
+          "note": "Con la gh gutural. Femenino: «sghira».",
+          "review": false
+        },
+        {
+          "id": "u05-l01-jdid",
+          "type": "word",
+          "es": "nuevo",
+          "tn": "jdid",
+          "ar": "جديد",
+          "pron": "jdid",
+          "note": "Femenino: «jdida».",
+          "review": false
+        },
+        {
+          "id": "u05-l01-9dim",
+          "type": "word",
+          "es": "viejo, antiguo",
+          "tn": "9dim",
+          "ar": "قديم",
+          "pron": "9a-dim",
+          "alt": [
+            "qdim"
+          ],
+          "note": "Femenino: «9dima».",
+          "review": false
+        },
+        {
+          "id": "u05-l01-tawil",
+          "type": "word",
+          "es": "largo, alto",
+          "tn": "tawil",
+          "ar": "طويل",
+          "pron": "ta-wil",
+          "review": false
+        },
+        {
+          "id": "u05-l01-9sir",
+          "type": "word",
+          "es": "corto, bajo",
+          "tn": "9sir",
+          "ar": "قصير",
+          "pron": "9sir",
+          "alt": [
+            "qsir"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l01-khayeb",
+          "type": "word",
+          "es": "malo",
+          "tn": "khayeb",
+          "ar": "خايب",
+          "pron": "kha-yeb",
+          "alt": [
+            "5ayeb"
+          ],
+          "note": "«Kh» raspada.",
+          "review": false
+        },
+        {
+          "id": "u05-l01-hedha-kbir",
+          "type": "phrase",
+          "es": "Este es grande",
+          "tn": "Hedha kbir",
+          "ar": "هذا كبير",
+          "tokens": [
+            "Hedha",
+            "kbir"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l01-hedhi-sghira",
+          "type": "phrase",
+          "es": "Esta es pequeña",
+          "tn": "Hedhi sghira",
+          "ar": "هذي صغيرة",
+          "note": "Femenino con «-a».",
+          "tokens": [
+            "Hedhi",
+            "sghira"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u05-l02",
+      "title": "Colores",
+      "kind": "normal",
+      "grammar": {
+        "title": "De qué color",
+        "text_es": "Colores: a7mar (rojo), akhdhar (verde), azra9 (azul), abyadh (blanco), aswed (negro), asfer (amarillo). Concuerdan con el nombre: «a7mar» (masculino) → «7amra» (femenino)."
+      },
+      "items": [
+        {
+          "id": "u05-l02-a7mar",
+          "type": "word",
+          "es": "rojo",
+          "tn": "a7mar",
+          "ar": "أحمر",
+          "pron": "a-h-mar",
+          "alt": [
+            "ahmar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l02-akhdhar",
+          "type": "word",
+          "es": "verde",
+          "tn": "akhdhar",
+          "ar": "أخضر",
+          "pron": "akh-dhar",
+          "alt": [
+            "akhdher",
+            "a5dhar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l02-azra9",
+          "type": "word",
+          "es": "azul",
+          "tn": "azra9",
+          "ar": "أزرق",
+          "pron": "az-ra9",
+          "alt": [
+            "azraq"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l02-abyadh",
+          "type": "word",
+          "es": "blanco",
+          "tn": "abyadh",
+          "ar": "أبيض",
+          "pron": "ab-yadh",
+          "alt": [
+            "abyad"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l02-aswed",
+          "type": "word",
+          "es": "negro",
+          "tn": "aswed",
+          "ar": "أسود",
+          "pron": "as-wed",
+          "review": false
+        },
+        {
+          "id": "u05-l02-asfer",
+          "type": "word",
+          "es": "amarillo",
+          "tn": "asfer",
+          "ar": "أصفر",
+          "pron": "as-fer",
+          "review": false
+        },
+        {
+          "id": "u05-l02-hedha-a7mar",
+          "type": "phrase",
+          "es": "Esto es rojo",
+          "tn": "Hedha a7mar",
+          "ar": "هذا أحمر",
+          "alt": [
+            "hedha ahmar"
+          ],
+          "tokens": [
+            "Hedha",
+            "a7mar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l02-hedhi-bayda",
+          "type": "phrase",
+          "es": "Esta es blanca",
+          "tn": "Hedhi bayda",
+          "ar": "هذي بيضاء",
+          "note": "Femenino de «abyadh».",
+          "tokens": [
+            "Hedhi",
+            "bayda"
+          ],
+          "review": true
+        },
+        {
+          "id": "u05-l02-nheb-el-akhdhar",
+          "type": "phrase",
+          "es": "Me gusta el verde",
+          "tn": "Nheb el-akhdhar",
+          "ar": "نحب الأخضر",
+          "tokens": [
+            "Nheb",
+            "el-akhdhar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l02-chnowa-el-lawn",
+          "type": "phrase",
+          "es": "¿De qué color es?",
+          "tn": "Chnowa el-lawn",
+          "ar": "شنوة اللون",
+          "note": "«lawn» = color.",
+          "tokens": [
+            "Chnowa",
+            "el-lawn"
+          ],
+          "review": true
+        },
+        {
+          "id": "u05-l02-ma-nhebch-el-aswed",
+          "type": "phrase",
+          "es": "No me gusta el negro",
+          "tn": "Ma nhebch el-aswed",
+          "ar": "ما نحبش الأسود",
+          "tokens": [
+            "Ma",
+            "nhebch",
+            "el-aswed"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u05-l03",
+      "title": "Comprar y regatear",
+      "kind": "normal",
+      "grammar": {
+        "title": "Pedir precio y rebajar",
+        "text_es": "En el zoco se regatea con educación. «Nakkes chwaya» pide una pequeña rebaja. «Akhir se3er» es el último precio. Saluda y despídete con cortesía aunque no compres: «Ya3tik essa7a»."
+      },
+      "items": [
+        {
+          "id": "u05-l03-nheb-nechri",
+          "type": "phrase",
+          "es": "Quiero comprar",
+          "tn": "Nheb nechri",
+          "ar": "نحب نشري",
+          "pron": "n-heb nech-ri",
+          "note": "«nechri» = compro. Verbo en presente (más en la unidad 9).",
+          "tokens": [
+            "Nheb",
+            "nechri"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l03-chnowa-es-se3er",
+          "type": "phrase",
+          "es": "¿Cuánto cuesta? (el precio)",
+          "tn": "Chnowa es-se3er",
+          "ar": "شنوة السعر",
+          "note": "«se3er» = precio.",
+          "tokens": [
+            "Chnowa",
+            "es-se3er"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l03-akhir-se3er",
+          "type": "phrase",
+          "es": "Último precio",
+          "tn": "Akhir se3er",
+          "ar": "آخر سعر",
+          "pron": "a-khir se-3er",
+          "tokens": [
+            "Akhir",
+            "se3er"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l03-nakkes-chwaya",
+          "type": "phrase",
+          "es": "Rebaja un poco",
+          "tn": "Nakkes chwaya",
+          "ar": "نقّص شوية",
+          "note": "Pide una rebaja sin ofender.",
+          "tokens": [
+            "Nakkes",
+            "chwaya"
+          ],
+          "review": true
+        },
+        {
+          "id": "u05-l03-hedha-ghali-barcha",
+          "type": "phrase",
+          "es": "Esto es muy caro",
+          "tn": "Hedha ghali barcha",
+          "ar": "هذا غالي برشا",
+          "tokens": [
+            "Hedha",
+            "ghali",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l03-hedha-ghali-barcha-nakkes-chwaya",
+          "type": "sentence",
+          "es": "Esto es muy caro, rebaja un poco",
+          "tn": "Hedha ghali barcha nakkes chwaya",
+          "ar": "هذا غالي برشا نقّص شوية",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Hedha",
+            "ghali",
+            "barcha",
+            "nakkes",
+            "chwaya"
+          ],
+          "review": true
+        },
+        {
+          "id": "u05-l03-behi-nechrih",
+          "type": "phrase",
+          "es": "Vale, lo compro",
+          "tn": "Behi nechrih",
+          "ar": "باهي نشريه",
+          "note": "«-ih» = lo.",
+          "tokens": [
+            "Behi",
+            "nechrih"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l03-nechri-zouz",
+          "type": "phrase",
+          "es": "Compro dos",
+          "tn": "Nechri zouz",
+          "ar": "نشري زوز",
+          "tokens": [
+            "Nechri",
+            "zouz"
+          ],
+          "review": false
+        },
+        {
+          "id": "u05-l03-ma-nechrich",
+          "type": "phrase",
+          "es": "No compro",
+          "tn": "Ma nechrich",
+          "ar": "ما نشريش",
+          "tokens": [
+            "Ma",
+            "nechrich"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "9addech hedha?",
+          "es": "¿Cuánto es esto?"
+        },
+        {
+          "role": "B",
+          "tn": "Setta dinar",
+          "es": "Seis dinares."
+        },
+        {
+          "role": "A",
+          "tn": "Ghali barcha. Nakkes chwaya",
+          "es": "Muy caro. Rebaja un poco."
+        },
+        {
+          "role": "B",
+          "tn": "Behi, khamsa dinar",
+          "es": "Vale, cinco dinares."
+        }
+      ]
+    }
+  ],
+  "id": "u05",
+  "title": "En el mercado y las compras",
+  "can_do": "Puedes comprar algo, preguntar precios y regatear con educación.",
+  "color": "#7a5a12",
+  "icon": "basket"
+}

@@ -1,0 +1,480 @@
+{
+  "lessons": [
+    {
+      "id": "u06-l01",
+      "title": "Mi familia",
+      "kind": "normal",
+      "grammar": {
+        "title": "Los familiares cercanos",
+        "text_es": "La mayoría de los términos de familia llevan el posesivo «-i» (mi): «baba» (mi padre), «yemma» (mi madre), «khouya» (mi hermano), «okhti» (mi hermana). Un hijo es «weld» y una hija «bint» (plural «bnet»)."
+      },
+      "items": [
+        {
+          "id": "u06-l01-baba",
+          "type": "word",
+          "es": "papá",
+          "tn": "baba",
+          "ar": "بابا",
+          "pron": "ba-ba",
+          "review": false
+        },
+        {
+          "id": "u06-l01-yemma",
+          "type": "word",
+          "es": "mamá",
+          "tn": "yemma",
+          "ar": "يمّا",
+          "pron": "ie-ma",
+          "review": false
+        },
+        {
+          "id": "u06-l01-khouya",
+          "type": "word",
+          "es": "mi hermano",
+          "tn": "khouya",
+          "ar": "خويا",
+          "pron": "khu-ya",
+          "alt": [
+            "5ouya"
+          ],
+          "note": "«Khou» = hermano; «-ya» = mi.",
+          "review": false
+        },
+        {
+          "id": "u06-l01-okhti",
+          "type": "word",
+          "es": "mi hermana",
+          "tn": "okhti",
+          "ar": "أختي",
+          "pron": "okh-ti",
+          "alt": [
+            "o5ti"
+          ],
+          "note": "Se escribe también «o5ti».",
+          "review": false
+        },
+        {
+          "id": "u06-l01-jeddi",
+          "type": "word",
+          "es": "mi abuelo",
+          "tn": "jeddi",
+          "ar": "جدّي",
+          "pron": "jed-di",
+          "review": false
+        },
+        {
+          "id": "u06-l01-jeddati",
+          "type": "word",
+          "es": "mi abuela",
+          "tn": "jeddati",
+          "ar": "جدّتي",
+          "pron": "jed-da-ti",
+          "alt": [
+            "jedti"
+          ],
+          "note": "Se oye también «jedti».",
+          "review": true
+        },
+        {
+          "id": "u06-l01-weld",
+          "type": "word",
+          "es": "hijo, chico",
+          "tn": "weld",
+          "ar": "ولد",
+          "pron": "weld",
+          "review": false
+        },
+        {
+          "id": "u06-l01-bint",
+          "type": "word",
+          "es": "hija, chica",
+          "tn": "bint",
+          "ar": "بنت",
+          "pron": "bint",
+          "note": "Plural: «bnet».",
+          "review": false
+        },
+        {
+          "id": "u06-l01-3ayla",
+          "type": "word",
+          "es": "familia",
+          "tn": "3ayla",
+          "ar": "عيلة",
+          "pron": "3ay-la",
+          "note": "Con la 3 profunda.",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u06-l02",
+      "title": "Más familia",
+      "kind": "normal",
+      "grammar": {
+        "title": "Tíos, primos, pareja",
+        "text_es": "«3ammi» (mi tío paterno), «khali» (mi tío materno), «3ammti» (mi tía paterna), «khalti» (mi tía materna). «Mrati» (mi mujer), «rajli» (mi marido). Con «-i» se forma «mi»: mra → mrati."
+      },
+      "items": [
+        {
+          "id": "u06-l02-3ammi",
+          "type": "word",
+          "es": "mi tío (paterno)",
+          "tn": "3ammi",
+          "ar": "عمّي",
+          "pron": "3am-mi",
+          "review": false
+        },
+        {
+          "id": "u06-l02-khali",
+          "type": "word",
+          "es": "mi tío (materno)",
+          "tn": "khali",
+          "ar": "خالي",
+          "pron": "kha-li",
+          "alt": [
+            "5ali"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l02-3ammti",
+          "type": "word",
+          "es": "mi tía (paterna)",
+          "tn": "3ammti",
+          "ar": "عمّتي",
+          "pron": "3am-ti",
+          "review": false
+        },
+        {
+          "id": "u06-l02-khalti",
+          "type": "word",
+          "es": "mi tía (materna)",
+          "tn": "khalti",
+          "ar": "خالتي",
+          "pron": "khal-ti",
+          "alt": [
+            "5alti"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l02-mrati",
+          "type": "word",
+          "es": "mi mujer",
+          "tn": "mrati",
+          "ar": "مراتي",
+          "pron": "mra-ti",
+          "note": "«mra» = mujer.",
+          "review": false
+        },
+        {
+          "id": "u06-l02-rajli",
+          "type": "word",
+          "es": "mi marido",
+          "tn": "rajli",
+          "ar": "راجلي",
+          "pron": "raj-li",
+          "note": "«rajel» = hombre.",
+          "review": false
+        },
+        {
+          "id": "u06-l02-weldi",
+          "type": "word",
+          "es": "mi hijo",
+          "tn": "weldi",
+          "ar": "ولدي",
+          "pron": "wel-di",
+          "review": false
+        },
+        {
+          "id": "u06-l02-bniti",
+          "type": "word",
+          "es": "mi hija",
+          "tn": "bniti",
+          "ar": "بنتي",
+          "pron": "bni-ti",
+          "review": false
+        },
+        {
+          "id": "u06-l02-ibn-3ammi",
+          "type": "phrase",
+          "es": "mi primo (por parte del tío paterno)",
+          "tn": "Ibn 3ammi",
+          "ar": "إبن عمي",
+          "tokens": [
+            "Ibn",
+            "3ammi"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u06-l03",
+      "title": "Tu familia, su familia",
+      "kind": "normal",
+      "grammar": {
+        "title": "Posesivos -ek y -ou",
+        "text_es": "«-ek» = tu, «-ou» o «-ah» = su: «khouk» (tu hermano), «khouh» (su hermano), «okhtek» (tu hermana), «okhtou» (su hermana). Para preguntar el nombre de alguien: «Chnowa ism khouk?»."
+      },
+      "items": [
+        {
+          "id": "u06-l03-khouk",
+          "type": "word",
+          "es": "tu hermano",
+          "tn": "khouk",
+          "ar": "خوك",
+          "pron": "khuk",
+          "alt": [
+            "5ouk"
+          ],
+          "note": "Sufijo «-k» = tu.",
+          "review": false
+        },
+        {
+          "id": "u06-l03-khouh",
+          "type": "word",
+          "es": "su hermano",
+          "tn": "khouh",
+          "ar": "خوه",
+          "pron": "khuh",
+          "alt": [
+            "5ouh"
+          ],
+          "note": "Sufijo «-h» = su.",
+          "review": false
+        },
+        {
+          "id": "u06-l03-okhtek",
+          "type": "word",
+          "es": "tu hermana",
+          "tn": "okhtek",
+          "ar": "أختك",
+          "review": false
+        },
+        {
+          "id": "u06-l03-okhtou",
+          "type": "word",
+          "es": "su hermana",
+          "tn": "okhtou",
+          "ar": "أخته",
+          "review": false
+        },
+        {
+          "id": "u06-l03-babek",
+          "type": "word",
+          "es": "tu padre",
+          "tn": "babek",
+          "ar": "بابك",
+          "pron": "ba-bek",
+          "review": false
+        },
+        {
+          "id": "u06-l03-babah",
+          "type": "word",
+          "es": "su padre",
+          "tn": "babah",
+          "ar": "بابه",
+          "pron": "ba-bah",
+          "review": false
+        },
+        {
+          "id": "u06-l03-yemmek",
+          "type": "word",
+          "es": "tu madre",
+          "tn": "yemmek",
+          "ar": "يمّك",
+          "review": false
+        },
+        {
+          "id": "u06-l03-yemmou",
+          "type": "word",
+          "es": "su madre",
+          "tn": "yemmou",
+          "ar": "يمّه",
+          "review": false
+        },
+        {
+          "id": "u06-l03-chnowa-ism-khouk",
+          "type": "phrase",
+          "es": "¿Cómo se llama tu hermano?",
+          "tn": "Chnowa ism khouk",
+          "ar": "شنوة إسم خوك",
+          "note": "Literalmente «¿cuál es el nombre de tu hermano?».",
+          "tokens": [
+            "Chnowa",
+            "ism",
+            "khouk"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l03-ism-khouya-karim",
+          "type": "phrase",
+          "es": "Mi hermano se llama Karim",
+          "tn": "Ism khouya Karim",
+          "ar": "إسم خويا كريم",
+          "tokens": [
+            "Ism",
+            "khouya",
+            "Karim"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l03-khouya-tounsi",
+          "type": "phrase",
+          "es": "Mi hermano es tunecino",
+          "tn": "Khouya tounsi",
+          "ar": "خويا تونسي",
+          "tokens": [
+            "Khouya",
+            "tounsi"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u06-l04",
+      "title": "Hablar de la familia",
+      "kind": "normal",
+      "grammar": {
+        "title": "Tengo hermanos, tengo hijos",
+        "text_es": "«3andi» + familiar para decir «tengo». «3andi khou» (tengo un hermano), «3andi okht» (tengo una hermana). «Wled» son los hijos. «Howa khouya» = es mi hermano."
+      },
+      "items": [
+        {
+          "id": "u06-l04-3andi-khou",
+          "type": "phrase",
+          "es": "tengo un hermano",
+          "tn": "3andi khou",
+          "ar": "عندي خو",
+          "note": "«khou» sin el sufijo = un hermano.",
+          "tokens": [
+            "3andi",
+            "khou"
+          ],
+          "review": true
+        },
+        {
+          "id": "u06-l04-3andi-okht",
+          "type": "phrase",
+          "es": "tengo una hermana",
+          "tn": "3andi okht",
+          "ar": "عندي أخت",
+          "tokens": [
+            "3andi",
+            "okht"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l04-3andek-wled",
+          "type": "phrase",
+          "es": "¿tienes hijos?",
+          "tn": "3andek wled",
+          "ar": "عندك ولاد",
+          "pron": "3an-dek w-led",
+          "note": "«wled» = hijos.",
+          "tokens": [
+            "3andek",
+            "wled"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l04-ma-3andich-wled",
+          "type": "phrase",
+          "es": "no tengo hijos",
+          "tn": "Ma 3andich wled",
+          "ar": "ما عنديش ولاد",
+          "tokens": [
+            "Ma",
+            "3andich",
+            "wled"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l04-3andi-weld-w-bint",
+          "type": "sentence",
+          "es": "tengo un hijo y una hija",
+          "tn": "3andi weld w bint",
+          "ar": "عندي ولد وبنت",
+          "tokens": [
+            "3andi",
+            "weld",
+            "w",
+            "bint"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l04-howa-khouya",
+          "type": "phrase",
+          "es": "él es mi hermano",
+          "tn": "Howa khouya",
+          "ar": "هو خويا",
+          "tokens": [
+            "Howa",
+            "khouya"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l04-hiya-okhti",
+          "type": "phrase",
+          "es": "ella es mi hermana",
+          "tn": "Hiya okhti",
+          "ar": "هي أختي",
+          "tokens": [
+            "Hiya",
+            "okhti"
+          ],
+          "review": false
+        },
+        {
+          "id": "u06-l04-3andi-3ayla-kbira",
+          "type": "phrase",
+          "es": "tengo una familia grande",
+          "tn": "3andi 3ayla kbira",
+          "ar": "عندي عيلة كبيرة",
+          "tokens": [
+            "3andi",
+            "3ayla",
+            "kbira"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "3andek khou?",
+          "es": "¿Tienes hermano?"
+        },
+        {
+          "role": "B",
+          "tn": "Iyeh, 3andi khou w okht",
+          "es": "Sí, tengo un hermano y una hermana."
+        },
+        {
+          "role": "A",
+          "tn": "Ismou chnowa?",
+          "es": "¿Cómo se llama?"
+        },
+        {
+          "role": "B",
+          "tn": "Ismou Karim",
+          "es": "Se llama Karim."
+        }
+      ]
+    }
+  ],
+  "id": "u06",
+  "title": "Familia y relaciones",
+  "can_do": "Puedes hablar de tu familia y entender preguntas sobre ella.",
+  "color": "#3a56b0",
+  "icon": "family"
+}

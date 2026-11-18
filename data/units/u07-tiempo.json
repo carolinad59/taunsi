@@ -1,0 +1,530 @@
+{
+  "lessons": [
+    {
+      "id": "u07-l01",
+      "title": "Los días de la semana",
+      "kind": "normal",
+      "grammar": {
+        "title": "Siete días",
+        "text_es": "Todos los días empiezan con «nhar» (día): nhar el-a7ad (domingo), nhar el-itnin (lunes), nhar et-tlata (martes), nhar el-arb3a (miércoles), nhar el-khmis (jueves), nhar el-jom3a (viernes), nhar es-sebt (sábado). Fíjate en el artículo: «el-» o «et-/es-» según la letra siguiente."
+      },
+      "items": [
+        {
+          "id": "u07-l01-nhar-el-a7ad",
+          "type": "phrase",
+          "es": "domingo",
+          "tn": "nhar el-a7ad",
+          "ar": "نهار الأحد",
+          "pron": "nhar el-a-had",
+          "alt": [
+            "nhar el-ahad"
+          ],
+          "note": "Se oye también «el-ahad».",
+          "tokens": [
+            "nhar",
+            "el-a7ad"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l01-nhar-el-itnin",
+          "type": "phrase",
+          "es": "lunes",
+          "tn": "nhar el-itnin",
+          "ar": "نهار الإثنين",
+          "tokens": [
+            "nhar",
+            "el-itnin"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l01-nhar-et-tlata",
+          "type": "phrase",
+          "es": "martes",
+          "tn": "nhar et-tlata",
+          "ar": "نهار الثلاثاء",
+          "alt": [
+            "nhar et-thletha",
+            "nhar et-talata"
+          ],
+          "note": "«et-» antes de «t»: el artículo se asimila.",
+          "tokens": [
+            "nhar",
+            "et-tlata"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l01-nhar-el-arb3a",
+          "type": "phrase",
+          "es": "miércoles",
+          "tn": "nhar el-arb3a",
+          "ar": "نهار الأربعاء",
+          "tokens": [
+            "nhar",
+            "el-arb3a"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l01-nhar-el-khmis",
+          "type": "phrase",
+          "es": "jueves",
+          "tn": "nhar el-khmis",
+          "ar": "نهار الخميس",
+          "alt": [
+            "nhar el-5mis"
+          ],
+          "tokens": [
+            "nhar",
+            "el-khmis"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l01-nhar-el-jom3a",
+          "type": "phrase",
+          "es": "viernes",
+          "tn": "nhar el-jom3a",
+          "ar": "نهار الجمعة",
+          "note": "El día de reposo de muchos.",
+          "tokens": [
+            "nhar",
+            "el-jom3a"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l01-nhar-es-sebt",
+          "type": "phrase",
+          "es": "sábado",
+          "tn": "nhar es-sebt",
+          "ar": "نهار السبت",
+          "note": "«es-» antes de «s».",
+          "tokens": [
+            "nhar",
+            "es-sebt"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l01-lyoum",
+          "type": "word",
+          "es": "hoy",
+          "tn": "lyoum",
+          "ar": "اليوم",
+          "pron": "l-yum",
+          "review": false
+        },
+        {
+          "id": "u07-l01-ghodwa",
+          "type": "word",
+          "es": "mañana",
+          "tn": "ghodwa",
+          "ar": "غدوة",
+          "pron": "gh-od-wa",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u07-l02",
+      "title": "Ayer, hoy, mañana",
+      "kind": "normal",
+      "grammar": {
+        "title": "Cuándo",
+        "text_es": "Palabras de tiempo: «lyoum» (hoy), «ghodwa» (mañana), «el-bareh» (ayer), «tawa» (ahora; «daba» es del Magreb occidental). Preguntas: «imta?» (¿cuándo?), «waktech?» (¿a qué hora/cuándo?)."
+      },
+      "items": [
+        {
+          "id": "u07-l02-el-bareh",
+          "type": "word",
+          "es": "ayer",
+          "tn": "el-bareh",
+          "ar": "البارح",
+          "pron": "el-ba-re7",
+          "alt": [
+            "el bare7"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l02-tawa",
+          "type": "word",
+          "es": "ahora",
+          "tn": "tawa",
+          "ar": "توّا",
+          "pron": "ta-wa",
+          "note": "«Daba» es marroquí; en Túnez, «tawa».",
+          "review": false
+        },
+        {
+          "id": "u07-l02-imta",
+          "type": "word",
+          "es": "¿cuándo?",
+          "tn": "imta",
+          "ar": "إمتى",
+          "pron": "im-ta",
+          "review": false
+        },
+        {
+          "id": "u07-l02-waktech",
+          "type": "word",
+          "es": "¿cuándo? / ¿a qué hora?",
+          "tn": "waktech",
+          "ar": "وقتاش",
+          "pron": "wak-tech",
+          "review": false
+        },
+        {
+          "id": "u07-l02-chnowa-nhar-lyoum",
+          "type": "phrase",
+          "es": "¿Qué día es hoy?",
+          "tn": "Chnowa nhar lyoum",
+          "ar": "شنوة نهار اليوم",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Chnowa",
+            "nhar",
+            "lyoum"
+          ],
+          "review": true
+        },
+        {
+          "id": "u07-l02-lyoum-nhar-el-itnin",
+          "type": "phrase",
+          "es": "Hoy es lunes",
+          "tn": "Lyoum nhar el-itnin",
+          "ar": "اليوم نهار الإثنين",
+          "tokens": [
+            "Lyoum",
+            "nhar",
+            "el-itnin"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l02-ghodwa-nhar-et-tlata",
+          "type": "phrase",
+          "es": "Mañana es martes",
+          "tn": "Ghodwa nhar et-tlata",
+          "ar": "غدوة نهار الثلاثاء",
+          "tokens": [
+            "Ghodwa",
+            "nhar",
+            "et-tlata"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l02-el-bareh-nhar-el-a7ad",
+          "type": "phrase",
+          "es": "Ayer fue domingo",
+          "tn": "El-bareh nhar el-a7ad",
+          "ar": "البارح نهار الأحد",
+          "alt": [
+            "el-bareh nhar el-ahad"
+          ],
+          "tokens": [
+            "El-bareh",
+            "nhar",
+            "el-a7ad"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l02-imta-nchoufek",
+          "type": "phrase",
+          "es": "¿Cuándo te veo?",
+          "tn": "Imta nchoufek",
+          "ar": "إمتى نشوفك",
+          "tokens": [
+            "Imta",
+            "nchoufek"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u07-l03",
+      "title": "La hora",
+      "kind": "normal",
+      "grammar": {
+        "title": "Qué hora es",
+        "text_es": "«9addech es-sa3a?» (¿qué hora es?). «Es-sa3a wa7da» (la una), «es-sa3a zouz» (las dos). «W nos» (y media), «w rob3» (y cuarto), «illa rob3» (menos cuarto). Momentos del día: sbah (mañana), 3chiya (tarde), ellil (noche)."
+      },
+      "items": [
+        {
+          "id": "u07-l03-9addech-es-sa3a",
+          "type": "phrase",
+          "es": "¿Qué hora es?",
+          "tn": "9addech es-sa3a",
+          "ar": "قدّاش الساعة",
+          "alt": [
+            "qaddech es-sa3a",
+            "9adech es-sa3a"
+          ],
+          "tokens": [
+            "9addech",
+            "es-sa3a"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l03-es-sa3a-wa7da",
+          "type": "phrase",
+          "es": "Es la una",
+          "tn": "Es-sa3a wa7da",
+          "ar": "الساعة وحدة",
+          "alt": [
+            "es-sa3a wahda"
+          ],
+          "tokens": [
+            "Es-sa3a",
+            "wa7da"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l03-es-sa3a-zouz",
+          "type": "phrase",
+          "es": "Son las dos",
+          "tn": "Es-sa3a zouz",
+          "ar": "الساعة زوز",
+          "tokens": [
+            "Es-sa3a",
+            "zouz"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l03-es-sa3a-tlata",
+          "type": "phrase",
+          "es": "Son las tres",
+          "tn": "Es-sa3a tlata",
+          "ar": "الساعة ثلاثة",
+          "tokens": [
+            "Es-sa3a",
+            "tlata"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l03-es-sa3a-khamsa-w-nos",
+          "type": "sentence",
+          "es": "Son las cinco y media",
+          "tn": "Es-sa3a khamsa w nos",
+          "ar": "الساعة خمسة ونص",
+          "tokens": [
+            "Es-sa3a",
+            "khamsa",
+            "w",
+            "nos"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l03-es-sa3a-setta-w-rob3",
+          "type": "sentence",
+          "es": "Son las seis y cuarto",
+          "tn": "Es-sa3a setta w rob3",
+          "ar": "الساعة ستة وربع",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Es-sa3a",
+            "setta",
+            "w",
+            "rob3"
+          ],
+          "review": true
+        },
+        {
+          "id": "u07-l03-illa-rob3",
+          "type": "phrase",
+          "es": "menos cuarto",
+          "tn": "illa rob3",
+          "ar": "إلا ربع",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "illa",
+            "rob3"
+          ],
+          "review": true
+        },
+        {
+          "id": "u07-l03-sbah",
+          "type": "word",
+          "es": "mañana (parte del día)",
+          "tn": "sbah",
+          "ar": "صباح",
+          "pron": "sbah",
+          "review": false
+        },
+        {
+          "id": "u07-l03-3chiya",
+          "type": "word",
+          "es": "tarde",
+          "tn": "3chiya",
+          "ar": "عشيّة",
+          "pron": "3chi-ya",
+          "review": false
+        },
+        {
+          "id": "u07-l03-ellil",
+          "type": "word",
+          "es": "la noche",
+          "tn": "ellil",
+          "ar": "الليل",
+          "pron": "el-lil",
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u07-l04",
+      "title": "Quedar con alguien",
+      "kind": "normal",
+      "grammar": {
+        "title": "Citas y planes",
+        "text_es": "«Nchoufek ghodwa» (te veo mañana). Para preguntar si alguien puede: «3andek waqt?» (¿tienes tiempo?). «Mouch lyoum» (hoy no). «Kif kif» (igual / me da igual)."
+      },
+      "items": [
+        {
+          "id": "u07-l04-nchoufek-ghodwa",
+          "type": "phrase",
+          "es": "Te veo mañana",
+          "tn": "Nchoufek ghodwa",
+          "ar": "نشوفك غدوة",
+          "tokens": [
+            "Nchoufek",
+            "ghodwa"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l04-nchoufek-ghodwa-es-sa3a-zouz",
+          "type": "sentence",
+          "es": "Te veo mañana a las dos",
+          "tn": "Nchoufek ghodwa es-sa3a zouz",
+          "ar": "نشوفك غدوة الساعة زوز",
+          "tokens": [
+            "Nchoufek",
+            "ghodwa",
+            "es-sa3a",
+            "zouz"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l04-mouch-lyoum",
+          "type": "phrase",
+          "es": "hoy no",
+          "tn": "Mouch lyoum",
+          "ar": "موش اليوم",
+          "tokens": [
+            "Mouch",
+            "lyoum"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l04-lyoum-3andi-chghol",
+          "type": "phrase",
+          "es": "hoy tengo trabajo",
+          "tn": "Lyoum 3andi chghol",
+          "ar": "اليوم عندي شغل",
+          "note": "«chghol» = trabajo, tarea.",
+          "tokens": [
+            "Lyoum",
+            "3andi",
+            "chghol"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l04-ghodwa-mouch-mochkel",
+          "type": "phrase",
+          "es": "mañana no hay problema",
+          "tn": "Ghodwa mouch mochkel",
+          "ar": "غدوة موش مشكل",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "Ghodwa",
+            "mouch",
+            "mochkel"
+          ],
+          "review": true
+        },
+        {
+          "id": "u07-l04-3andek-waqt",
+          "type": "phrase",
+          "es": "¿tienes tiempo?",
+          "tn": "3andek waqt",
+          "ar": "عندك وقت",
+          "tokens": [
+            "3andek",
+            "waqt"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l04-3andek-waqt-ghodwa",
+          "type": "phrase",
+          "es": "¿tienes tiempo mañana?",
+          "tn": "3andek waqt ghodwa",
+          "ar": "عندك وقت غدوة",
+          "tokens": [
+            "3andek",
+            "waqt",
+            "ghodwa"
+          ],
+          "review": false
+        },
+        {
+          "id": "u07-l04-kif-kif",
+          "type": "phrase",
+          "es": "igual",
+          "tn": "Kif kif",
+          "ar": "كيف كيف",
+          "pron": "kif kif",
+          "tokens": [
+            "Kif",
+            "kif"
+          ],
+          "review": false
+        }
+      ],
+      "dialogue": [
+        {
+          "role": "A",
+          "tn": "3andek waqt ghodwa?",
+          "es": "¿Tienes tiempo mañana?",
+          "ar": "عندك وقت غدوة"
+        },
+        {
+          "role": "B",
+          "tn": "Iyeh, waktech?",
+          "es": "Sí, ¿cuándo?"
+        },
+        {
+          "role": "A",
+          "tn": "Es-sa3a zouz",
+          "es": "A las dos.",
+          "ar": "الساعة زوز"
+        },
+        {
+          "role": "B",
+          "tn": "Behi, nchoufek ghodwa",
+          "es": "Vale, te veo mañana."
+        }
+      ]
+    }
+  ],
+  "id": "u07",
+  "title": "Tiempo, días y horas",
+  "can_do": "Puedes quedar con alguien y decir cuándo.",
+  "color": "#8a3f9e",
+  "icon": "clock"
+}

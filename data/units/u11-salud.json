@@ -1,0 +1,371 @@
+{
+  "lessons": [
+    {
+      "id": "u11-l01",
+      "title": "Qué me pasa",
+      "kind": "normal",
+      "grammar": {
+        "title": "Síntomas",
+        "text_es": "Esta unidad solo enseña vocabulario para pedir ayuda: no sustituye a un profesional. «3andi» + síntoma: «3andi souda3» (dolor de cabeza), «3andi skhouna» (fiebre), «3andi wja3 fi…» (me duele…)."
+      },
+      "items": [
+        {
+          "id": "u11-l01-mrid",
+          "type": "word",
+          "es": "enfermo",
+          "tn": "mrid",
+          "ar": "مريض",
+          "pron": "mrid",
+          "review": false
+        },
+        {
+          "id": "u11-l01-ta3ban",
+          "type": "word",
+          "es": "cansado",
+          "tn": "ta3ban",
+          "ar": "تعبان",
+          "pron": "ta3-ban",
+          "note": "Con la 3 profunda.",
+          "review": false
+        },
+        {
+          "id": "u11-l01-wja3",
+          "type": "word",
+          "es": "dolor",
+          "tn": "wja3",
+          "ar": "وجع",
+          "pron": "wja3",
+          "note": "Forma por revisar con un hablante nativo.",
+          "review": true
+        },
+        {
+          "id": "u11-l01-3andi-souda3",
+          "type": "phrase",
+          "es": "tengo dolor de cabeza",
+          "tn": "3andi souda3",
+          "ar": "عندي صداع",
+          "tokens": [
+            "3andi",
+            "souda3"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l01-3andi-skhouna",
+          "type": "phrase",
+          "es": "tengo fiebre",
+          "tn": "3andi skhouna",
+          "ar": "عندي سخونة",
+          "tokens": [
+            "3andi",
+            "skhouna"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l01-3andi-wja3-fi-rassi",
+          "type": "sentence",
+          "es": "me duele la cabeza",
+          "tn": "3andi wja3 fi rassi",
+          "ar": "عندي وجع في راسي",
+          "tokens": [
+            "3andi",
+            "wja3",
+            "fi",
+            "rassi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l01-3andi-wja3-fi-kerchi",
+          "type": "sentence",
+          "es": "me duele el estómago",
+          "tn": "3andi wja3 fi kerchi",
+          "ar": "عندي وجع في كرشي",
+          "tokens": [
+            "3andi",
+            "wja3",
+            "fi",
+            "kerchi"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l01-3andi-wja3-fi-dhahri",
+          "type": "sentence",
+          "es": "me duele la espalda",
+          "tn": "3andi wja3 fi dhahri",
+          "ar": "عندي وجع في ضهري",
+          "tokens": [
+            "3andi",
+            "wja3",
+            "fi",
+            "dhahri"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l01-ena-ta3ban-barcha",
+          "type": "phrase",
+          "es": "estoy muy cansado",
+          "tn": "Ena ta3ban barcha",
+          "ar": "أنا تعبان برشا",
+          "tokens": [
+            "Ena",
+            "ta3ban",
+            "barcha"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u11-l02",
+      "title": "Médico y farmacia",
+      "kind": "normal",
+      "grammar": {
+        "title": "Dónde y qué pedir",
+        "text_es": "«Pharmacie» y «ordonnance» (receta) son préstamos del francés. «Dwa» es medicina. «Tbib» es médico. Para preguntar: «Chnowa 3andek?» (¿qué tienes?)."
+      },
+      "items": [
+        {
+          "id": "u11-l02-tbib",
+          "type": "word",
+          "es": "médico",
+          "tn": "tbib",
+          "ar": "طبيب",
+          "pron": "tbib",
+          "review": false
+        },
+        {
+          "id": "u11-l02-dwa",
+          "type": "word",
+          "es": "medicina",
+          "tn": "dwa",
+          "ar": "دواء",
+          "pron": "dwa",
+          "review": false
+        },
+        {
+          "id": "u11-l02-pharmacie",
+          "type": "word",
+          "es": "farmacia",
+          "tn": "pharmacie",
+          "ar": "فارماسي",
+          "pron": "far-ma-si",
+          "note": "Préstamo del francés.",
+          "review": false
+        },
+        {
+          "id": "u11-l02-ordonnance",
+          "type": "word",
+          "es": "receta médica",
+          "tn": "ordonnance",
+          "ar": "أوردونانس",
+          "note": "Préstamo del francés.",
+          "review": false
+        },
+        {
+          "id": "u11-l02-nheb-tbib",
+          "type": "phrase",
+          "es": "quiero un médico",
+          "tn": "Nheb tbib",
+          "ar": "نحب طبيب",
+          "tokens": [
+            "Nheb",
+            "tbib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l02-nheb-dwa",
+          "type": "phrase",
+          "es": "quiero una medicina",
+          "tn": "Nheb dwa",
+          "ar": "نحب دواء",
+          "tokens": [
+            "Nheb",
+            "dwa"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l02-nheb-dwa-l-souda3",
+          "type": "phrase",
+          "es": "quiero algo para el dolor de cabeza",
+          "tn": "Nheb dwa l-souda3",
+          "ar": "نحب دواء للصداع",
+          "tokens": [
+            "Nheb",
+            "dwa",
+            "l-souda3"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l02-chnowa-3andek",
+          "type": "phrase",
+          "es": "¿qué tienes?",
+          "tn": "Chnowa 3andek",
+          "ar": "شنوة عندك",
+          "tokens": [
+            "Chnowa",
+            "3andek"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l02-famma-pharmacie-9rib",
+          "type": "phrase",
+          "es": "¿hay una farmacia cerca?",
+          "tn": "Famma pharmacie 9rib",
+          "ar": "فمّا فارماسي قريب",
+          "tokens": [
+            "Famma",
+            "pharmacie",
+            "9rib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l02-3andi-ordonnance",
+          "type": "phrase",
+          "es": "tengo receta",
+          "tn": "3andi ordonnance",
+          "ar": "عندي أوردونانس",
+          "tokens": [
+            "3andi",
+            "ordonnance"
+          ],
+          "review": false
+        }
+      ]
+    },
+    {
+      "id": "u11-l03",
+      "title": "Pedir ayuda",
+      "kind": "normal",
+      "grammar": {
+        "title": "Emergencias",
+        "text_es": "En una emergencia, di cuanto antes «3andi mochkel» y pide: «Lazem tbib», «Lazem sbitar», «Lazem is3af». «A3awenni» (ayúdame). No te inventes consejos: pide ayuda profesional."
+      },
+      "items": [
+        {
+          "id": "u11-l03-3andi-mochkel",
+          "type": "phrase",
+          "es": "tengo un problema",
+          "tn": "3andi mochkel",
+          "ar": "عندي مشكل",
+          "pron": "3an-di mosh-kel, con la 3 profunda",
+          "tokens": [
+            "3andi",
+            "mochkel"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l03-a3awenni",
+          "type": "word",
+          "es": "¡ayúdame!",
+          "tn": "A3awenni",
+          "ar": "عاوني",
+          "note": "Forma por revisar con un hablante nativo.",
+          "review": true
+        },
+        {
+          "id": "u11-l03-lazem-tbib",
+          "type": "phrase",
+          "es": "necesito un médico",
+          "tn": "Lazem tbib",
+          "ar": "لازم طبيب",
+          "tokens": [
+            "Lazem",
+            "tbib"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l03-lazem-sbitar",
+          "type": "phrase",
+          "es": "necesito el hospital",
+          "tn": "Lazem sbitar",
+          "ar": "لازم سبيطار",
+          "note": "«sbitar» es el hospital.",
+          "tokens": [
+            "Lazem",
+            "sbitar"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l03-lazem-is3af",
+          "type": "phrase",
+          "es": "necesito una ambulancia",
+          "tn": "Lazem is3af",
+          "ar": "لازم إسعاف",
+          "tokens": [
+            "Lazem",
+            "is3af"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l03-ena-mrid-barcha",
+          "type": "phrase",
+          "es": "estoy muy enfermo",
+          "tn": "Ena mrid barcha",
+          "ar": "أنا مريض برشا",
+          "tokens": [
+            "Ena",
+            "mrid",
+            "barcha"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l03-khayef",
+          "type": "word",
+          "es": "tengo miedo",
+          "tn": "Khayef",
+          "ar": "خايف",
+          "review": false
+        },
+        {
+          "id": "u11-l03-sma7li-3andi-mochkel",
+          "type": "phrase",
+          "es": "perdona, tengo un problema",
+          "tn": "Sma7li 3andi mochkel",
+          "ar": "سماحلي عندي مشكل",
+          "alt": [
+            "smahli 3andi mochkel"
+          ],
+          "tokens": [
+            "Sma7li",
+            "3andi",
+            "mochkel"
+          ],
+          "review": false
+        },
+        {
+          "id": "u11-l03-a3awenni-min-fadhlek",
+          "type": "phrase",
+          "es": "ayúdame, por favor",
+          "tn": "A3awenni min fadhlek",
+          "ar": "عاوني من فضلك",
+          "note": "Forma por revisar con un hablante nativo.",
+          "tokens": [
+            "A3awenni",
+            "min",
+            "fadhlek"
+          ],
+          "review": true
+        }
+      ]
+    }
+  ],
+  "id": "u11",
+  "title": "Salud, farmacia y emergencias",
+  "can_do": "Puedes explicar qué te pasa en la farmacia o al médico.",
+  "color": "#b02a37",
+  "icon": "health"
+}
